@@ -7,6 +7,9 @@ source: "https://doi.org/10.1177/1745691615569000"
 author: "Nicholas C. Soderstrom; Robert A. Bjork"
 published: 2015
 accessed: 2026-10-01
+evidence_kind: review
+domain: general-learning
+verification: full-text-sections
 related: []
 created: 2026-10-01
 updated: 2026-10-01
@@ -37,3 +40,5 @@ Soderstrom, N. C., & Bjork, R. A. (2015). *Learning Versus Performance: An Integ
 ## 関連する文書
 
 - [評価・検証ガイド](../../docs/evaluation.md)
+
+分類の意味は [資料の評価方針](../../docs/evidence-policy.md)、横断索引は [資料一覧](../README.md)を参照。

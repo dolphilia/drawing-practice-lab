@@ -5,6 +5,7 @@
 | 雛形 | 保存先 | 最初に埋める項目 |
 | --- | --- | --- |
 | [reference.md](reference.md) | `references/{books,videos,articles,artists}/` | 出典、確認範囲、要点、該当箇所 |
+| [collection.md](collection.md) | `research/topics/YYYY-MM-DD_collection-<theme>.md` | 問い、検索計画、実行した検索、候補の採否・保留理由 |
 | [research.md](research.md) | `research/{topics,comparisons,learning-science}/` | 問い、資料、自分の仮説 |
 | [skill.md](skill.md) | `skills/{fundamentals,figure,composition,rendering}/` | 定義、観察できる到達基準 |
 | [method.md](method.md) | `methods/drafts/` | 課題、対象、原理の仮説、根拠 |

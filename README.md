@@ -13,6 +13,17 @@
 
 `skills/` は描画技能の分類です。AI エージェント用のスキルを置く場所ではありません。
 
+## 調査資料を読む
+
+- [資料収集・調査計画](docs/research-plan.md)：次に調べる問い、優先順位、検索・精読の手順と完了条件
+- [資料一覧](references/README.md)：39件の出典を、主題・根拠の種類・確認範囲で分類
+- [調査と分析](research/README.md)：学習科学、既存メソッド、隣接分野、キャラ絵の横断的な整理
+- [何時間・何週間で評価できるか](research/learning-science/practice-dose-and-evaluation-timing.md)：研究の実施量と評価時期、探索用の日程案
+- [描画の評価候補](research/learning-science/drawing-assessment-candidates.md)：採点法の比較と、実験前に測定の安定性を確かめる案
+- [キャラ絵と洞田創のメソッド](research/topics/character-illustration-and-toda-method.md)：広文メソッド／トダ式アタリと検証候補
+
+資料の信頼性は [評価・分類方針](docs/evidence-policy.md)に従って記録します。研究が直接示したこと、実践者の経験則、このリポジトリで試す仮説を分けています。
+
 ## ワークフロー
 
 ```text
@@ -54,6 +65,7 @@ references → research → methods → exercises → programs
 
 - [運用ルール](docs/conventions.md)：命名・状態・リンク・版管理
 - [評価・検証ガイド](docs/evaluation.md)：比較条件・保持・転移・採用基準
+- [資料の評価・分類方針](docs/evidence-policy.md)：根拠の種類・対象分野・確認範囲
 - [テンプレート一覧](templates/README.md)：保存先と最小限の記入項目
 - [スキルマップ](skills/skill-map.md) / [用語集](docs/glossary.md)
 - [画像の保存方針](images/README.md)：ローカル画像と共有用素材
