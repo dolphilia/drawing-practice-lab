@@ -9,7 +9,7 @@
 | [学習・練習の知見](learning-science/learning-and-practice-evidence.md) | 分散、検索練習、交互練習、フィードバックと適用限界 |
 | [何時間・何週間で評価できるか](learning-science/practice-dose-and-evaluation-timing.md) | 研究の実施量、保持・転移、探索用の日程案、採点の信頼性 |
 | [描画の評価候補と測定の試行案](learning-science/drawing-assessment-candidates.md) | 総合評定・項目別評価・幾何学的誤差の使い分けと未解決点 |
-| [既存メソッドの比較](comparisons/drawing-methods-evidence-map.md) | 13件の教材の狙い、根拠の性質、検証課題 |
+| [既存メソッドの比較](comparisons/drawing-methods-evidence-map.md) | 初回13件＋補足5件の教材の狙い、根拠の性質、検証課題 |
 | [隣接分野からの転移](topics/cross-domain-transfer.md) | 建築、工学、空間認知、運動技能から応用できる仮説 |
 | [キャラ絵と洞田創のメソッド](topics/character-illustration-and-toda-method.md) | 技能の分解、広文メソッド／トダ式アタリの特徴と限界 |
 | [初回収集の記録](topics/2026-10-01_collection-log.md) | 探索範囲、確認の制限、今後の精読事項 |
@@ -28,3 +28,13 @@
 | --- | --- |
 | [第6回：採点差と作画変動](topics/2026-10-02_collection-rating-variation.md) | Q1の探索・選別と測定の許容差 |
 | [第7回：量・時期と原理](topics/2026-10-02_collection-dose-feedback.md) | Q2・Q3の追加検索・反証・日程判断 |
+
+| 最終追加文書 | 分かること |
+| --- | --- |
+| [第8回：技能と教材](topics/2026-10-02_collection-skill-methods.md) | Q4/Q5の実検索・採否・確認範囲 |
+| [重点技能対応表](comparisons/focus-skill-evidence-matrix.md) | 全重点領域の教材と評価研究を分ける |
+| [同技能の方法比較](comparisons/toda-ratio-versus-grid.md) | 箱の比率分割とグリッド模写 |
+| [第9回：直接転移](topics/2026-10-02_collection-direct-transfer.md) | Q6の実検索・境界・優先順位 |
+| [完了条件と最終監査](topics/2026-10-02_research-completion-audit.md) | A〜D・Q1〜Q6の照合と点検 |
+
+計22件（分析・収集記録・監査、README除く）。[メソッド草案](../methods/drafts/torso-ratio-quartering.md)・[ドリル](../exercises/construction/torso-ratio-quartering.md)・[探索計画](../experiments/2026-10-02_torso-ratio-pilot.md)へ引き渡した。描画の実施と効果の実証は未完了。

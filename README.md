@@ -18,11 +18,13 @@
 - [資料収集・調査計画](docs/research-plan.md)：次に調べる問い、優先順位、検索・精読の手順と完了条件
 - [調査計画の継続用プロンプト](docs/research-continuation-prompt.md)：現在の進捗から調査・保存・点検・引き継ぎまで進める指示
 - [長期目標用プロンプト](docs/research-long-term-goal-prompt.md)：作業単位を繰り返し、調査計画全体の完了まで進める指示
-- [資料一覧](references/README.md)：44件の出典を、主題・根拠の種類・確認範囲で分類
+- [資料一覧](references/README.md)：54件の出典を、主題・根拠の種類・確認範囲で分類
 - [調査と分析](research/README.md)：学習科学、既存メソッド、隣接分野、キャラ絵の横断的な整理
 - [何時間・何週間で評価できるか](research/learning-science/practice-dose-and-evaluation-timing.md)：研究の実施量と評価時期、探索用の日程案
 - [描画の評価候補](research/learning-science/drawing-assessment-candidates.md)：採点法の比較と、実験前に測定の安定性を確かめる案
 - [キャラ絵と洞田創のメソッド](research/topics/character-illustration-and-toda-method.md)：広文メソッド／トダ式アタリと検証候補
+
+調査・設計フェーズA〜D・Q1〜Q6は[完了監査](research/topics/2026-10-02_research-completion-audit.md)で照合済み。[箱比率の草案](methods/drafts/torso-ratio-quartering.md)、[ドリルv1](exercises/construction/torso-ratio-quartering.md)、[探索的実験計画](experiments/2026-10-02_torso-ratio-pilot.md)、[刺激・描画・採点道具](assets/torso-ratio-pilot/README.md)を準備した。実描画・保持・転移のデータは未取得で、効果は未実証。
 
 資料の信頼性は [評価・分類方針](docs/evidence-policy.md)に従って記録します。研究が直接示したこと、実践者の経験則、このリポジトリで試す仮説を分けています。
 

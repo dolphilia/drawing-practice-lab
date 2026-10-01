@@ -65,3 +65,7 @@
 ## 設計の根拠と適用範囲
 
 練習中の遂行と保持・転移を区別する考え方は [Soderstrom & Bjork のレビュー](../references/articles/soderstrom-bjork-2015-learning-versus-performance.md)を参考にしています。目標とフィードバック条件を残す設計には [Newell ほかの描画課題研究](../references/articles/newell-1990-drawing-feedback.md)も参考にしました。具体的な記録項目と採用基準は、このリポジトリのための設計判断です。これらの文献が、ここで開発するイラスト練習法の効果を直接実証しているわけではありません。
+
+## 最初の探索計画への適用（2026-10-02）
+
+[二箱の高さ比計画](../experiments/2026-10-02_torso-ratio-pilot.md)では採点差と日間作画変動、比率の限定妥当性、直後・保持・近い転移を分けた。改善0.05・採点差0.02、実描画160分・セッション200分は運用値で、実証済みの最低量・MDCではない。[最終監査](../research/topics/2026-10-02_research-completion-audit.md)で設計の完了を確認し、効果の検証は今後の実施結果で判断する。

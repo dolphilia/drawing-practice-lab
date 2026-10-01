@@ -1,10 +1,10 @@
 # 資料一覧
 
-2026-10-02 時点、**44件**（初回33件、第1回2件、第2回3件、第3回1件追加。第3回は既存2件も更新、第4・5回は既存1件を拡充）。学習・測定・隣接分野・描画の研究・論評等31件と、実践教材13件を収録しています。本文は自分の言葉による資料メモで、原典のURL・確認範囲・限界を付けています。訂正記事・別公開版は元ノートへ統合し、重複計上しません。
+2026-10-02 時点、**54件**。初回33件から計画調査第1〜5回で39件、第6〜9回で15件追加した。研究・方法論・論評等36件、実践教材18件。原典のURL・確認範囲・限界を記し、訂正記事・別公開版は元ノートへ統合して重複計上しない。
 
 **根拠の種類は効果の保証ではありません。** メタ分析でも対象と質の点検が必要で、実践教材は手順の出典と学習効果のデータを分けます。媒体別のディレクトリは維持し、この索引で主題と根拠を横断します。
 
-[分類方針](../docs/evidence-policy.md) / [分析・収集記録17件](../research/README.md) / [初回収集の範囲](../research/topics/2026-10-01_collection-log.md) / [第1回計画調査の記録](../research/topics/2026-10-01_collection-measurement-and-drawing.md) / [第2回計画調査の記録](../research/topics/2026-10-01_collection-practice-schedules.md)
+[分類方針](../docs/evidence-policy.md) / [分析・収集記録22件](../research/README.md) / [初回収集の範囲](../research/topics/2026-10-01_collection-log.md) / [第1回計画調査の記録](../research/topics/2026-10-01_collection-measurement-and-drawing.md) / [第2回計画調査の記録](../research/topics/2026-10-01_collection-practice-schedules.md)
 
 [第3回計画調査の記録](../research/topics/2026-10-01_collection-deliberate-practice.md)では意図的練習の訂正と定義・選別を点検しました。[第4回計画調査](../research/topics/2026-10-01_collection-toda-method.md)では洞田講座の全15回の本文と指定図6点を確認し、比率・訂正・例外を記録しました。
 
@@ -92,3 +92,18 @@
 | [高齢成人の観察描画](articles/vodyanyk-2025-drawing-feasibility.md) | 条件・群比較 | PMC本文指定節 |
 | [分散効果が限定的な運動系列](articles/gupta-2026-motor-spacing-limits.md) | 条件・群比較 | 出版社本文指定節 |
 | [図形再生と交互練習](articles/albaret-thon-1998-drawing-schedule.md) | 条件・群比較 | 検索抽出・本文保留 |
+
+## 第8・9回の追加資料
+
+| 資料 | 根拠の種類 | 確認範囲 |
+| --- | --- | --- |
+| [表情の部分変更](articles/clipstudio-expression-parts.md) | 実践者の提案 | 本文指定節、図・動画未確認 |
+| [手の部位分解](articles/clipstudio-hand-parts.md) | 実践者の提案 | 本文指定節、図・動画未確認 |
+| [足の単純形](articles/clipstudio-foot-parts.md) | 実践者の提案 | 本文指定節、図・動画未確認 |
+| [衣服のしわ](articles/clipstudio-clothing-folds.md) | 実践者の提案 | 本文指定節、図・書籍全体未確認 |
+| [背景・明度とぼかし](articles/clipstudio-background-focus.md) | 実践者の提案 | 本文指定節、図・動画未確認 |
+| [身体の感情認識](articles/atkinson-2004-body-emotion.md) | 条件・群比較 | 要旨 |
+| [漫画表情の認識](articles/zhao-2019-cartoon-expression.md) | 条件・群比較 | Abstract/Methodsのみ |
+| [構図と視線経路](articles/kirtley-2018-composition-gaze.md) | 条件・群比較 | 大学公開要旨 |
+| [色調和と好みの区別](articles/schloss-2011-color-judgments.md) | 条件・群比較 | Abstract/Introductionのみ |
+| [3D運動制御から2D模写へ](articles/snapp-childs-2016-drawing-transfer.md) | 条件・群比較 | 著者原稿Methods/Results/Discussion指定節 |
