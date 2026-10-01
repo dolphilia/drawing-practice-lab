@@ -6,6 +6,8 @@
 
 作業を再開するときは [継続用プロンプト](research-continuation-prompt.md)を使います。再開位置はこの節と最新の収集記録から判断し、プロンプトには固定しません。
 
+複数の作業単位を続けて進める場合は [長期目標用プロンプト](research-long-term-goal-prompt.md)を使います。段階ごとの区切りを途中保存とし、調査・設計フェーズ全体の完了条件で終了を判断します。
+
 [第1回調査](../research/topics/2026-10-01_collection-measurement-and-drawing.md)でA1・A2、[第2回調査](../research/topics/2026-10-01_collection-practice-schedules.md)でA3、[第3回調査](../research/topics/2026-10-01_collection-deliberate-practice.md)でA4、[第4回調査](../research/topics/2026-10-01_collection-toda-method.md)でA5を点検し、[第5回調査](../research/topics/2026-10-01_collection-toda-torso.md)で第3・7回の図版を補足しました。現在は資料39件・分析と収集記録15件です。
 
 A5では洞田創の2015年講座全15回の本文と、図版30点（第3回14点・第7回11点・その他5点）を確認しました。[資料ノート](../references/artists/toda-kobun-method.md)へ基準点・省略・修正を記録し、[基準箱と補助箱の測定仕様草案](../research/learning-science/toda-torso-measurement-spec.md)を作成しました。原図や実作品を使う試行は未実施です。
