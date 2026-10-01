@@ -16,6 +16,7 @@
 ## 調査資料を読む
 
 - [資料収集・調査計画](docs/research-plan.md)：次に調べる問い、優先順位、検索・精読の手順と完了条件
+- [調査計画の継続用プロンプト](docs/research-continuation-prompt.md)：現在の進捗から調査・保存・点検・引き継ぎまで進める指示
 - [資料一覧](references/README.md)：39件の出典を、主題・根拠の種類・確認範囲で分類
 - [調査と分析](research/README.md)：学習科学、既存メソッド、隣接分野、キャラ絵の横断的な整理
 - [何時間・何週間で評価できるか](research/learning-science/practice-dose-and-evaluation-timing.md)：研究の実施量と評価時期、探索用の日程案
