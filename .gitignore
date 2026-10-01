@@ -1,0 +1,11 @@
+# 画像ディレクトリ：中身は追跡しない（README と .gitkeep のみ追跡）
+/images/**
+!/images/**/
+!/images/README.md
+!/images/**/.gitkeep
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
