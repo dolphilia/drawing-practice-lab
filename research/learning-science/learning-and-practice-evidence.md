@@ -4,7 +4,7 @@ status: "ready"
 tags: ["learning-science", "retention", "transfer"]
 related: []
 created: "2026-10-01"
-updated: "2026-10-01"
+updated: "2026-10-02"
 ---
 
 # 学習・練習の知見と描画への適用範囲
@@ -43,3 +43,9 @@ A4では[意図的練習の定義と評価](deliberate-practice-definitions.md)�
 ## リポジトリへの反映
 
 まず一つの技能で、総時間・間隔・補助の有無・修正内容を記録する。複数の「良さそうな原理」を同時に変えると、何が効いたか分からなくなります。実作業と検証は [評価時期の整理](practice-dose-and-evaluation-timing.md)と[評価・検証ガイド](../../docs/evaluation.md)につなげます。
+
+## 段階Bの原理を絞る判断（2026-10-02）
+
+[追加探索](../topics/2026-10-02_collection-dose-feedback.md)では、[キー系列の分散効果が限定的な条件](../../references/articles/gupta-2026-motor-spacing-limits.md)、[視覚制御なしの図形再生](../../references/articles/albaret-thon-1998-drawing-schedule.md)を区別して追加した。前者を週単位の描画の否定、後者を人体構築の実証としない。[フィードバックの本文点検](../../references/articles/wisniewski-2020-feedback.md)も特定の添削頻度を処方しない。
+
+直接のキャラ絵検索練習の効果は、この限定探索では採用できる原著に到達していない。手順の記憶・題材の記憶・目標を参照する構築を分ける。最初は資料を見て区間分割し、誤差を測って次の試行に反映する案に絞る。分散・交互・検索の優劣まで一度に検証しない。

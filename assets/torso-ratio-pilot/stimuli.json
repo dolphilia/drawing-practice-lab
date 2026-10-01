@@ -1,0 +1,110 @@
+[
+  {
+    "id": "standard",
+    "width": 160,
+    "upper_height": 200,
+    "lower_height": 150.0,
+    "x": 320,
+    "y": 100,
+    "ratio": 0.75
+  },
+  {
+    "id": "practice-wide",
+    "width": 200,
+    "upper_height": 200,
+    "lower_height": 150.0,
+    "x": 300,
+    "y": 100,
+    "ratio": 0.75
+  },
+  {
+    "id": "practice-narrow",
+    "width": 120,
+    "upper_height": 200,
+    "lower_height": 150.0,
+    "x": 340,
+    "y": 100,
+    "ratio": 0.75
+  },
+  {
+    "id": "near-pre-1",
+    "width": 210,
+    "upper_height": 160,
+    "lower_height": 120.0,
+    "x": 250,
+    "y": 120,
+    "ratio": 0.75
+  },
+  {
+    "id": "near-pre-2",
+    "width": 130,
+    "upper_height": 240,
+    "lower_height": 180.0,
+    "x": 400,
+    "y": 80,
+    "ratio": 0.75
+  },
+  {
+    "id": "near-pre-3",
+    "width": 190,
+    "upper_height": 180,
+    "lower_height": 135.0,
+    "x": 330,
+    "y": 160,
+    "ratio": 0.75
+  },
+  {
+    "id": "near-post-1",
+    "width": 210,
+    "upper_height": 160,
+    "lower_height": 120.0,
+    "x": 275,
+    "y": 145,
+    "ratio": 0.75
+  },
+  {
+    "id": "near-post-2",
+    "width": 130,
+    "upper_height": 240,
+    "lower_height": 180.0,
+    "x": 425,
+    "y": 105,
+    "ratio": 0.75
+  },
+  {
+    "id": "near-post-3",
+    "width": 190,
+    "upper_height": 180,
+    "lower_height": 135.0,
+    "x": 355,
+    "y": 185,
+    "ratio": 0.75
+  },
+  {
+    "id": "near-retention-1",
+    "width": 210,
+    "upper_height": 160,
+    "lower_height": 120.0,
+    "x": 225,
+    "y": 95,
+    "ratio": 0.75
+  },
+  {
+    "id": "near-retention-2",
+    "width": 130,
+    "upper_height": 240,
+    "lower_height": 180.0,
+    "x": 375,
+    "y": 55,
+    "ratio": 0.75
+  },
+  {
+    "id": "near-retention-3",
+    "width": 190,
+    "upper_height": 180,
+    "lower_height": 135.0,
+    "x": 305,
+    "y": 135,
+    "ratio": 0.75
+  }
+]

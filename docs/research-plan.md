@@ -4,6 +4,21 @@
 
 ## 現在の進捗
 
+### 活動中の長期目標と完了判定（2026-10-02）
+
+段階A〜D・Q1〜Q6の調査と統合を完了し、少なくとも一つの狭い技能を実施可能な探索的実験計画へ渡す。同じ活動中Goalを引き継いだ。描画実験の実施・効果の実証はこの目標に含めない。判定の正本はこの欄とする。
+
+| 必須条件 | 状態・不足 | 根拠・対応先 |
+| --- | --- | --- |
+| A〜D、Q1〜Q6の探索・結論・反証・限界と調査サイクル | 未達。Aは保留付き初回点検済、B〜Dを継続 | 本計画の段階表、[最新保存](../research/topics/2026-10-01_collection-toda-torso.md) |
+| 採点一致・作画変動・妥当性、量・頻度・評価間隔の区別 | 調査条件は達成。Q1〜Q3の追加探索・比較済。実施版への引渡しは設計単位で確認する | [評価候補](../research/learning-science/drawing-assessment-candidates.md)、[量と時期](../research/learning-science/practice-dose-and-evaluation-timing.md) |
+| 重点技能の教材／評価研究の別探索、洞田式と同技能の比較 | 未達。他教材と薄い技能の追加探索が必要 | [教材比較](../research/comparisons/drawing-methods-evidence-map.md)、[洞田資料](../references/artists/toda-kobun-method.md) |
+| 隣接分野の結果・直接転移・仮説の区別 | 未達。追加探索と統合が必要 | [転移分析](../research/topics/cross-domain-transfer.md) |
+| 手順・対象・比較・評価・改善・量・保持・転移・中止を固定した草案 | 未達。実施条件と刺激素材が未確定 | [測定仕様v1](../research/learning-science/toda-torso-measurement-spec.md) |
+| 出典・数値・分類・索引・リンク・重複と最終照合 | 未達。新規作業を保存後に全体点検する | 各収集記録、[資料索引](../references/README.md)、[分析索引](../research/README.md) |
+
+不可欠な資料の取得不能は現時点で確定していない。従来の取得保留は代替案により設計を進められるか個別に判断する。
+
 作業を再開するときは [継続用プロンプト](research-continuation-prompt.md)を使います。再開位置はこの節と最新の収集記録から判断し、プロンプトには固定しません。
 
 複数の作業単位を続けて進める場合は [長期目標用プロンプト](research-long-term-goal-prompt.md)を使います。段階ごとの区切りを途中保存とし、調査・設計フェーズ全体の完了条件で終了を判断します。
@@ -12,7 +27,7 @@
 
 A5では洞田創の2015年講座全15回の本文と、図版30点（第3回14点・第7回11点・その他5点）を確認しました。[資料ノート](../references/artists/toda-kobun-method.md)へ基準点・省略・修正を記録し、[基準箱と補助箱の測定仕様草案](../research/learning-science/toda-torso-measurement-spec.md)を作成しました。原図や実作品を使う試行は未実施です。
 
-次は段階BのQ1として、繰り返し採点と作画の変動、測定点の定義、採点差と改善幅の関係を調べます。既存のMerzdorf・Chamberlain・Liu・Koo & Liを入口にします。A1〜A5の未取得原文・未確認図・後年記事等は各記録に保留し、取得や該当技能の調査に応じて再開します。
+2026-10-02の[第6回](../research/topics/2026-10-02_collection-rating-variation.md)と[第7回](../research/topics/2026-10-02_collection-dose-feedback.md)で段階BのQ1〜Q3を追加探索しました。採点差と作画変動、量・日程と反証を整理し、段階Cへ進みます。A1〜A5の未取得原文・未確認図・後年記事等は各記録に保留し、取得や該当技能の調査に応じて再開します。
 
 Q1は評価候補と狭い測定仕様の草案、Q2は一部原著の実施量、Q3は分散・交互練習と意図的練習の点検まで。Q4・Q5は洞田講座の本文と一部の図、名称検索までで、他教材の追加探索は未着手。Q6は工学・描画の資料追加までです。段階Aを区切ることは、各問いの解決や実験への移行を意味しません。
 

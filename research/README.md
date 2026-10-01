@@ -23,3 +23,8 @@
 | [第5回計画調査の記録](topics/2026-10-01_collection-toda-torso.md) | A5補足の図版照合、測定案と段階Bへの引き渡し |
 
 [資料の分類方針](../docs/evidence-policy.md) / [評価・検証ガイド](../docs/evaluation.md) / [研究テンプレート](../templates/research.md)
+
+| 追加文書（2026-10-02） | 分かること |
+| --- | --- |
+| [第6回：採点差と作画変動](topics/2026-10-02_collection-rating-variation.md) | Q1の探索・選別と測定の許容差 |
+| [第7回：量・時期と原理](topics/2026-10-02_collection-dose-feedback.md) | Q2・Q3の追加検索・反証・日程判断 |

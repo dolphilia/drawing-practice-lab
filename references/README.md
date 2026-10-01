@@ -1,10 +1,10 @@
 # 資料一覧
 
-2026-10-01 時点、**39件**（初回33件、第1回2件、第2回3件、第3回1件追加。第3回は既存2件も更新、第4・5回は既存1件を拡充）。学習・測定・隣接分野・描画の研究・論評等26件と、実践教材13件を収録しています。本文は自分の言葉による資料メモで、原典のURL・確認範囲・限界を付けています。訂正記事・別公開版は元ノートへ統合し、重複計上しません。
+2026-10-02 時点、**44件**（初回33件、第1回2件、第2回3件、第3回1件追加。第3回は既存2件も更新、第4・5回は既存1件を拡充）。学習・測定・隣接分野・描画の研究・論評等31件と、実践教材13件を収録しています。本文は自分の言葉による資料メモで、原典のURL・確認範囲・限界を付けています。訂正記事・別公開版は元ノートへ統合し、重複計上しません。
 
 **根拠の種類は効果の保証ではありません。** メタ分析でも対象と質の点検が必要で、実践教材は手順の出典と学習効果のデータを分けます。媒体別のディレクトリは維持し、この索引で主題と根拠を横断します。
 
-[分類方針](../docs/evidence-policy.md) / [分析・収集記録15件](../research/README.md) / [初回収集の範囲](../research/topics/2026-10-01_collection-log.md) / [第1回計画調査の記録](../research/topics/2026-10-01_collection-measurement-and-drawing.md) / [第2回計画調査の記録](../research/topics/2026-10-01_collection-practice-schedules.md)
+[分類方針](../docs/evidence-policy.md) / [分析・収集記録17件](../research/README.md) / [初回収集の範囲](../research/topics/2026-10-01_collection-log.md) / [第1回計画調査の記録](../research/topics/2026-10-01_collection-measurement-and-drawing.md) / [第2回計画調査の記録](../research/topics/2026-10-01_collection-practice-schedules.md)
 
 [第3回計画調査の記録](../research/topics/2026-10-01_collection-deliberate-practice.md)では意図的練習の訂正と定義・選別を点検しました。[第4回計画調査](../research/topics/2026-10-01_collection-toda-method.md)では洞田講座の全15回の本文と指定図6点を確認し、比率・訂正・例外を記録しました。
 
@@ -21,7 +21,7 @@
 | [交互練習のメタ分析への批評](articles/czyz-2025-contextual-interference-commentary.md) | 論評（review） | 要旨のみ・本文保留 |
 | [交互練習の論争への応答](articles/ammar-2025-contextual-interference-response.md) | 論評（review） | 出版社本文の指定節 |
 | [絵画の画風分類における交互提示](articles/kornell-bjork-2008-category-learning.md) | 条件・群比較 | 要旨中心 |
-| [教育フィードバックは内容と条件で効果が異なる](articles/wisniewski-2020-feedback.md) | メタ分析 | 要旨中心 |
+| [教育フィードバックは内容と条件で効果が異なる](articles/wisniewski-2020-feedback.md) | メタ分析 | 出版社本文の指定節 |
 | [熟達と意図的練習：練習時間だけで説明できるか](articles/macnamara-2014-deliberate-practice.md) | メタ分析 | 原著指定節・訂正本文と表 |
 | [意図的練習の定義をめぐる再分析](articles/ericsson-2019-practice-definition.md) | レビュー（再分析を含む） | 出版社本文の指定節 |
 | [意図的練習の定義・再分析・測定補正への批判](articles/hambrick-2020-deliberate-practice-critique.md) | 批判的レビュー | 本文の指定節・表3の一部 |
@@ -82,3 +82,13 @@
 4. キャラ絵と洞田式は [技能分解とメソッドの整理](../research/topics/character-illustration-and-toda-method.md)から。
 
 未確認の本文・図版・効果量を、ノートがあることだけで確認済みとはしないでください。原著の精読や反証が加わったら、資料ノートとこの索引を更新します。
+
+## 第6・7回の追加資料
+
+| 資料 | 根拠の種類 | 確認範囲 |
+| --- | --- | --- |
+| [相関と一致の違い](articles/bland-altman-1986-agreement.md) | 方法論 | 著者の許諾HTML指定節 |
+| [工学スケッチの評価レビュー](articles/merzdorf-2024-assessment-review.md) | レビュー | 出版社本文の指定節・表 |
+| [高齢成人の観察描画](articles/vodyanyk-2025-drawing-feasibility.md) | 条件・群比較 | PMC本文指定節 |
+| [分散効果が限定的な運動系列](articles/gupta-2026-motor-spacing-limits.md) | 条件・群比較 | 出版社本文指定節 |
+| [図形再生と交互練習](articles/albaret-thon-1998-drawing-schedule.md) | 条件・群比較 | 検索抽出・本文保留 |

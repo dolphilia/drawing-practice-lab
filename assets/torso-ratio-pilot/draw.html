@@ -1,0 +1,21 @@
+<!doctype html><html lang="ja"><meta charset="utf-8"><title>箱比率課題 v1</title>
+<style>body{font:16px system-ui;margin:24px;background:#f5f5f3}label,button,select,input{font:inherit;margin:5px}main{display:flex;flex-wrap:wrap;gap:20px}img,canvas{width:min(800px,calc(100vw - 60px));height:auto;border:1px solid #999;background:white}canvas{touch-action:none}p{max-width:80ch}</style>
+<h1>箱の模写</h1><p>見本を見ながら、同じ形と大きさを目安に描いてください。自由な手描きの線だけを使います。最終の輪郭が分かるように、補助線は小さく描いてください。保存後は元画像を変更しないでください。</p>
+<label>題材<select id="target"><option value="standard">standard</option><option value="practice-wide">practice-wide</option><option value="practice-narrow">practice-narrow</option><option value="near-pre-1">near-pre-1</option><option value="near-pre-2">near-pre-2</option><option value="near-pre-3">near-pre-3</option><option value="near-post-1">near-post-1</option><option value="near-post-2">near-post-2</option><option value="near-post-3">near-post-3</option><option value="near-retention-1">near-retention-1</option><option value="near-retention-2">near-retention-2</option><option value="near-retention-3">near-retention-3</option></select></label><label>試行ID<input id="trial" value="P01-test-01" pattern="[A-Za-z0-9_-]+"></label>
+<button id="start">4分開始</button><strong id="time">未開始</strong><button id="save">PNG保存</button><button id="clear">次の試行へ（全消去）</button>
+<main><section><h2>見本</h2><img id="ref" alt="上下の箱の見本" src="standard.svg"></section><section><h2>描く領域</h2><canvas id="paper" width="800" height="600"></canvas></section></main>
+<p>通信・自動保存はありません。制限時間になったら描画を止めて保存してください。解像度は800×600、黒の2pxブラシ固定。定規・スナップ・補正・消しゴム・取り消しはありません。補助線・修正線も保存されます。</p>
+<script>
+const paper=document.getElementById('paper'),ctx=paper.getContext('2d');let active=false,down=false,deadline=0;
+function blank(){ctx.fillStyle='white';ctx.fillRect(0,0,800,600);ctx.strokeStyle='black';ctx.lineWidth=2;ctx.lineCap='round';ctx.lineJoin='round';}blank();
+function xy(e){let r=paper.getBoundingClientRect();return [(e.clientX-r.left)*800/r.width,(e.clientY-r.top)*600/r.height];}
+paper.addEventListener('pointerdown',e=>{if(!active)return;down=true;paper.setPointerCapture(e.pointerId);ctx.beginPath();ctx.moveTo(...xy(e));});
+paper.addEventListener('pointermove',e=>{if(active&&down){ctx.lineTo(...xy(e));ctx.stroke();}});
+function release(){down=false;}paper.addEventListener('pointerup',release);paper.addEventListener('pointercancel',release);
+const start=document.getElementById('start'),clear=document.getElementById('clear'),target=document.getElementById('target');
+start.onclick=()=>{if(active)return;active=true;deadline=Date.now()+240000;start.disabled=true;clear.disabled=true;target.disabled=true;};
+setInterval(()=>{if(active){let left=Math.max(0,Math.ceil((deadline-Date.now())/1000));document.getElementById('time').textContent=`残り ${left}秒`;if(!left){active=false;down=false;clear.disabled=false;target.disabled=false;document.getElementById('time').textContent='終了：保存してください';}}},200);
+target.onchange=()=>document.getElementById('ref').src=target.value+'.svg';
+clear.onclick=()=>{if(active)return;if(!confirm('保存済みですか？描画を消去します。'))return;blank();start.disabled=false;document.getElementById('time').textContent='未開始';};
+document.getElementById('save').onclick=()=>{let id=document.getElementById('trial').value;if(!/^[A-Za-z0-9_-]+$/.test(id)){alert('IDには英数字・ハイフン・下線を使用');return;}let link=document.createElement('a');link.download=id+'.png';link.href=paper.toDataURL('image/png');link.click();};
+</script></html>

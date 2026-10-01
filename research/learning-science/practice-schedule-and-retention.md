@@ -4,7 +4,7 @@ status: ready
 tags: [motor-learning, practice-dose, retention, evidence-review]
 related: [practice-dose-and-evaluation-timing.md, learning-and-practice-evidence.md]
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # 分散・交互練習の評価条件と描画への適用限界
@@ -36,3 +36,7 @@ updated: 2026-10-01
 ## 残る調査
 
 今回の主眼は既存の2資料の原文点検であり、交互練習の全原著を再解析したものではない。描画課題への直接の介入研究、保持の姉妹論文に当たる転移メタ分析、論争で挙がった除外研究は、Q2・Q3・Q6を拡張する際の候補として[収集記録](../topics/2026-10-01_collection-practice-schedules.md)に残した。計画の次の優先作業はA4の訂正と意図的練習の定義の点検。
+
+## 追加した限定・反証（2026-10-02）
+
+[Gupta 2026](../../references/articles/gupta-2026-motor-spacing-limits.md)は秒単位の休憩、[Albaret & Thon 1998](../../references/articles/albaret-thon-1998-drawing-schedule.md)は図形再生の順序を扱う。[第7回の探索](../topics/2026-10-02_collection-dose-feedback.md)で日程の異なる操作と確認範囲を記録した。短い試験のRT差と誤反応、絵を自由に構築する技能は分ける。分散を推奨する際は目的と負担を示し、一律の効果保証としない。

@@ -6,13 +6,13 @@ type: "article"
 source: "https://www.clipstudio.net/oekaki/archives/151906"
 author: "イラスト・マンガ描き方ナビ掲載教材"
 published: null
-accessed: "2026-10-01"
+accessed: "2026-10-02"
 evidence_kind: "practitioner-method"
 domain: "drawing"
 verification: "full-text-sections"
 related: []
 created: "2026-10-01"
-updated: "2026-10-01"
+updated: "2026-10-02"
 ---
 
 # 模写：位置・シルエットの比較で形を点検する
@@ -40,3 +40,7 @@ updated: "2026-10-01"
 模写→差の特定→修正を試し、別の題材を手本なし／ありで描く評価も用意する。
 
 分類の意味は [資料の評価方針](../../docs/evidence-policy.md)、横断索引は [資料一覧](../README.md)を参照。
+
+## 2026-10-02の比較用確認
+
+本文「ポイント1〜3」を再確認。参照とキャンバスの縦横3分割、全体位置→外形→図形としての面の観察という説明を、同じ高さ比の再現を狙う別法の候補にする。図版は今回未確認、画像内の工程を追加採用しない。本文の「必ず上達」の断定は独立評価を伴う結果として採用しない。図を模写する手順と人体の立体モデルを構築する手順の差は比較表に残す。
