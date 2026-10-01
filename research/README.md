@@ -19,5 +19,7 @@
 | [意図的練習の定義と評価](learning-science/deliberate-practice-definitions.md) | 訂正・再選別・測定補正の区別と描画の記録案 |
 | [第3回計画調査の記録](topics/2026-10-01_collection-deliberate-practice.md) | A4の本文点検・批判の追加・保留と次回の範囲 |
 | [第4回計画調査の記録](topics/2026-10-01_collection-toda-method.md) | A5の全回所在・本文・選択図・訂正・例外と残件 |
+| [胴体構築から切り出す測定仕様（草案）](learning-science/toda-torso-measurement-spec.md) | 基準箱・補助箱の測定点、式、欠測、保持条件の分離 |
+| [第5回計画調査の記録](topics/2026-10-01_collection-toda-torso.md) | A5補足の図版照合、測定案と段階Bへの引き渡し |
 
 [資料の分類方針](../docs/evidence-policy.md) / [評価・検証ガイド](../docs/evaluation.md) / [研究テンプレート](../templates/research.md)

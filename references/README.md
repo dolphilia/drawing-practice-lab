@@ -1,12 +1,14 @@
 # 資料一覧
 
-2026-10-01 時点、**39件**（初回33件、第1回2件、第2回3件、第3回1件追加。第3回は既存2件も更新、第4回は既存1件を拡充）。学習・測定・隣接分野・描画の研究・論評等26件と、実践教材13件を収録しています。本文は自分の言葉による資料メモで、原典のURL・確認範囲・限界を付けています。訂正記事・別公開版は元ノートへ統合し、重複計上しません。
+2026-10-01 時点、**39件**（初回33件、第1回2件、第2回3件、第3回1件追加。第3回は既存2件も更新、第4・5回は既存1件を拡充）。学習・測定・隣接分野・描画の研究・論評等26件と、実践教材13件を収録しています。本文は自分の言葉による資料メモで、原典のURL・確認範囲・限界を付けています。訂正記事・別公開版は元ノートへ統合し、重複計上しません。
 
 **根拠の種類は効果の保証ではありません。** メタ分析でも対象と質の点検が必要で、実践教材は手順の出典と学習効果のデータを分けます。媒体別のディレクトリは維持し、この索引で主題と根拠を横断します。
 
-[分類方針](../docs/evidence-policy.md) / [分析・収集記録13件](../research/README.md) / [初回収集の範囲](../research/topics/2026-10-01_collection-log.md) / [第1回計画調査の記録](../research/topics/2026-10-01_collection-measurement-and-drawing.md) / [第2回計画調査の記録](../research/topics/2026-10-01_collection-practice-schedules.md)
+[分類方針](../docs/evidence-policy.md) / [分析・収集記録15件](../research/README.md) / [初回収集の範囲](../research/topics/2026-10-01_collection-log.md) / [第1回計画調査の記録](../research/topics/2026-10-01_collection-measurement-and-drawing.md) / [第2回計画調査の記録](../research/topics/2026-10-01_collection-practice-schedules.md)
 
 [第3回計画調査の記録](../research/topics/2026-10-01_collection-deliberate-practice.md)では意図的練習の訂正と定義・選別を点検しました。[第4回計画調査](../research/topics/2026-10-01_collection-toda-method.md)では洞田講座の全15回の本文と指定図6点を確認し、比率・訂正・例外を記録しました。
+
+[第5回計画調査](../research/topics/2026-10-01_collection-toda-torso.md)では第3・7回の図版照合を補足し、基準点と任意操作を整理しました。新たな効果研究を追加したものではありません。
 
 ## 学習・練習の原理
 
@@ -67,7 +69,7 @@
 | [Ctrl+Paint：短い課題に分ける描画・デジタル塗り教材](videos/ctrlpaint-library.md) | 実践者の提案 | 公式説明・目次 |
 | [Gurney：使う色域を限定して配色を学ぶ](articles/gurney-2013-gamut-mapping.md) | 実践者の提案 | 本文の一部 |
 | [さいとうなおき：目標との差を一つずつ練習する循環](books/saito-2022-fast-improvement.md) | 実践者の提案 | 公式説明・目次 |
-| [洞田創：広文メソッド／トダ式アタリ](artists/toda-kobun-method.md) | 実践者の提案 | 全15回の本文・指定図6点。残りの図は未確認 |
+| [洞田創：広文メソッド／トダ式アタリ](artists/toda-kobun-method.md) | 実践者の提案 | 全15回の本文・図30点。第3・7回は全掲載図、他回の残りは未確認 |
 | [キャラクターデザイン：設定・外見・シルエットの関係](articles/clipstudio-character-design.md) | 実践者の提案 | 本文の一部 |
 | [キャラクターのポーズをシルエットで点検する](articles/clipstudio-silhouette-poses.md) | 実践者の提案 | 本文の一部 |
 | [模写：位置・シルエットの比較で形を点検する](articles/clipstudio-copying-shapes.md) | 実践者の提案 | 本文の一部 |
