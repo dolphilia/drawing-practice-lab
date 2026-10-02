@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-02",
+  "pdf_sha256": "43e50b97c6979654a024be1de08ee77b57e04b83d51933707d1417056d8c1ae1",
+  "pages": 15,
+  "reviewer": "assistant visual inspection of Poppler page images",
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "final_changed_pages_reinspected": [
+    2,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "unchanged_pages_verified_by_pixel_file_hash": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    13,
+    14,
+    15
+  ],
+  "checks": [
+    "no clipped text or tables",
+    "no overlapping diagram labels",
+    "legible enlarged example labels",
+    "consistent page numbering",
+    "chapter checkpoints kept on their page",
+    "worksheet and examples complete"
+  ],
+  "page_png_sha256": {
+    "1": "1e66d9e86ffa36e6fecf68ea1d6293d802ead1a8712088ca0ea34b5bb517502a",
+    "2": "ea64d3692dd8ba4b4ebc24b035f0a6344af8f09bd03871bb34f7eb1d23621ce7",
+    "3": "739bd6d2a85fc601e299ae35371c4d1ca750e5c2c997a1a01c1efbbe40122dcb",
+    "4": "0076ce7c26ff19ecd105ac3939bead2237d6b7455442c9a1e90b7d3a1d930b63",
+    "5": "224cb89edc3ac642706a7bb46b16b78dea9a4c8ea0bf5397b4a0b12095964fa5",
+    "6": "2287790940b2b994a25e1ca4e772d72a31ee47f8d3463527ca3956282a74f32e",
+    "7": "5c9d6936d5d4e5943ebc2b2510f271f14b09e982818a22704d7144623258fff5",
+    "8": "85675ede403c8bbddbe875b81886beef11a3ce1f4f61b672f6be6a029cd47986",
+    "9": "9db0d7fcdc75eea23e53293ce9a97763856fc7244b7955060512dd34e0325fce",
+    "10": "2f1a431774f5d1c549c2a28d71e5a3990e7765c723537fa9f07ef14cd42e4399",
+    "11": "aa4d39f2f0d405cb9fa92b667afdf7c1c4d55a0bb4375103ddfc75c0874da827",
+    "12": "5d2bcec91609d10b68bbe1a87e3ee7962f45f5d5365c5662fab90c3543ecc7ec",
+    "13": "61ec4a580c5dab1f2dfb8764ba50fa97a3709ef6d1eb32b564d3cdf402e5967e",
+    "14": "7b26d25472090cff417c96ae665a9798b91635315386391e20161a130a081f78",
+    "15": "4f3e9cadfff5328e9ad56a634ab60f843e15dd0691e6d8202abb16f8ee6a6630"
+  },
+  "status": "pass",
+  "scope": "Publication layout review only; no human drawing/usability study."
+}

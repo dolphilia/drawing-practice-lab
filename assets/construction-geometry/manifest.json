@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "synthetic": true,
+  "items": [
+    {
+      "model": "two-boxes",
+      "view": "T1",
+      "split": "training",
+      "answer": "answers/two-boxes-T1.json",
+      "svg": "answers/two-boxes-T1.svg"
+    },
+    {
+      "model": "two-boxes",
+      "view": "T2",
+      "split": "training",
+      "answer": "answers/two-boxes-T2.json",
+      "svg": "answers/two-boxes-T2.svg"
+    },
+    {
+      "model": "two-boxes",
+      "view": "T3",
+      "split": "training",
+      "answer": "answers/two-boxes-T3.json",
+      "svg": "answers/two-boxes-T3.svg"
+    },
+    {
+      "model": "two-boxes",
+      "view": "E1",
+      "split": "evaluation",
+      "answer": "answers/two-boxes-E1.json",
+      "svg": "answers/two-boxes-E1.svg"
+    },
+    {
+      "model": "two-boxes",
+      "view": "E2",
+      "split": "evaluation",
+      "answer": "answers/two-boxes-E2.json",
+      "svg": "answers/two-boxes-E2.svg"
+    },
+    {
+      "model": "two-boxes",
+      "view": "E3",
+      "split": "evaluation",
+      "answer": "answers/two-boxes-E3.json",
+      "svg": "answers/two-boxes-E3.svg"
+    },
+    {
+      "model": "box-cylinder",
+      "view": "T1",
+      "split": "training",
+      "answer": "answers/box-cylinder-T1.json",
+      "svg": "answers/box-cylinder-T1.svg"
+    },
+    {
+      "model": "box-cylinder",
+      "view": "T2",
+      "split": "training",
+      "answer": "answers/box-cylinder-T2.json",
+      "svg": "answers/box-cylinder-T2.svg"
+    },
+    {
+      "model": "box-cylinder",
+      "view": "T3",
+      "split": "training",
+      "answer": "answers/box-cylinder-T3.json",
+      "svg": "answers/box-cylinder-T3.svg"
+    },
+    {
+      "model": "box-cylinder",
+      "view": "E1",
+      "split": "evaluation",
+      "answer": "answers/box-cylinder-E1.json",
+      "svg": "answers/box-cylinder-E1.svg"
+    },
+    {
+      "model": "box-cylinder",
+      "view": "E2",
+      "split": "evaluation",
+      "answer": "answers/box-cylinder-E2.json",
+      "svg": "answers/box-cylinder-E2.svg"
+    },
+    {
+      "model": "box-cylinder",
+      "view": "E3",
+      "split": "evaluation",
+      "answer": "answers/box-cylinder-E3.json",
+      "svg": "answers/box-cylinder-E3.svg"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "date": "2026-10-02",
+  "kind": "synthetic algebraic feasibility only",
+  "unit": "mm",
+  "cube_edge": 200,
+  "center": [
+    0,
+    0,
+    600
+  ],
+  "focal_distance": 200,
+  "rotation": [
+    [
+      "4/5",
+      "0",
+      "3/5"
+    ],
+    [
+      "0",
+      "1",
+      "0"
+    ],
+    [
+      "-3/5",
+      "0",
+      "4/5"
+    ]
+  ],
+  "vertices": [
+    {
+      "vertex": [
+        -100,
+        -100,
+        -100
+      ],
+      "camera_mm": [
+        -140.0,
+        -100.0,
+        580.0
+      ],
+      "paper_mm": [
+        -48.275862068965516,
+        -34.48275862068966
+      ],
+      "paper_exact": [
+        "-1400/29",
+        "-1000/29"
+      ]
+    },
+    {
+      "vertex": [
+        -100,
+        -100,
+        100
+      ],
+      "camera_mm": [
+        -20.0,
+        -100.0,
+        740.0
+      ],
+      "paper_mm": [
+        -5.405405405405405,
+        -27.027027027027028
+      ],
+      "paper_exact": [
+        "-200/37",
+        "-1000/37"
+      ]
+    },
+    {
+      "vertex": [
+        -100,
+        100,
+        -100
+      ],
+      "camera_mm": [
+        -140.0,
+        100.0,
+        580.0
+      ],
+      "paper_mm": [
+        -48.275862068965516,
+        34.48275862068966
+      ],
+      "paper_exact": [
+        "-1400/29",
+        "1000/29"
+      ]
+    },
+    {
+      "vertex": [
+        -100,
+        100,
+        100
+      ],
+      "camera_mm": [
+        -20.0,
+        100.0,
+        740.0
+      ],
+      "paper_mm": [
+        -5.405405405405405,
+        27.027027027027028
+      ],
+      "paper_exact": [
+        "-200/37",
+        "1000/37"
+      ]
+    },
+    {
+      "vertex": [
+        100,
+        -100,
+        -100
+      ],
+      "camera_mm": [
+        20.0,
+        -100.0,
+        460.0
+      ],
+      "paper_mm": [
+        8.695652173913043,
+        -43.47826086956522
+      ],
+      "paper_exact": [
+        "200/23",
+        "-1000/23"
+      ]
+    },
+    {
+      "vertex": [
+        100,
+        -100,
+        100
+      ],
+      "camera_mm": [
+        140.0,
+        -100.0,
+        620.0
+      ],
+      "paper_mm": [
+        45.16129032258065,
+        -32.25806451612903
+      ],
+      "paper_exact": [
+        "1400/31",
+        "-1000/31"
+      ]
+    },
+    {
+      "vertex": [
+        100,
+        100,
+        -100
+      ],
+      "camera_mm": [
+        20.0,
+        100.0,
+        460.0
+      ],
+      "paper_mm": [
+        8.695652173913043,
+        43.47826086956522
+      ],
+      "paper_exact": [
+        "200/23",
+        "1000/23"
+      ]
+    },
+    {
+      "vertex": [
+        100,
+        100,
+        100
+      ],
+      "camera_mm": [
+        140.0,
+        100.0,
+        620.0
+      ],
+      "paper_mm": [
+        45.16129032258065,
+        32.25806451612903
+      ],
+      "paper_exact": [
+        "1400/31",
+        "1000/31"
+      ]
+    }
+  ],
+  "edges_checked": 12,
+  "reciprocal_approximation": [
+    {
+      "maximum_relative_depth": 0.1,
+      "max_relative_scale_error": [
+        0.1,
+        0.01,
+        0.001
+      ],
+      "samples": 201
+    },
+    {
+      "maximum_relative_depth": 0.25,
+      "max_relative_scale_error": [
+        0.25,
+        0.0625,
+        0.015625
+      ],
+      "samples": 201
+    },
+    {
+      "maximum_relative_depth": 0.5,
+      "max_relative_scale_error": [
+        0.5,
+        0.25,
+        0.125
+      ],
+      "samples": 201
+    }
+  ],
+  "checks": [
+    "orthonormal edge frame",
+    "12 equal cube edges",
+    "8 finite ray-plane intersections",
+    "603 rational samples of scale-error identity"
+  ],
+  "not_checked": [
+    "manual operations",
+    "speed",
+    "angle reading error",
+    "all camera orientations",
+    "visual acceptability",
+    "human learning"
+  ]
+}

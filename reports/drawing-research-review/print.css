@@ -1,0 +1,51 @@
+/* A4 / Japanese Mincho / Gothic headings: same approach as reml/scripts/books/print.css. */
+@page { size: A4; }
+:root { color-scheme: light; }
+html { font-size: 10.5pt; }
+body { font-family: 'Hiragino Mincho ProN','Yu Mincho',serif; color:#20323e; line-height:1.76; margin:0 auto; max-width:176mm; }
+h1,h2,h3,h4,nav,.cover,.callout,figcaption,th { font-family:'Hiragino Kaku Gothic ProN','Yu Gothic',sans-serif; }
+h1 { font-size:21pt; color:#163e52; border-bottom:2.5px solid #3e8090; padding-bottom:.4em; margin:0 0 1.25em; break-before:page; break-after:avoid; line-height:1.4; }
+h2 { color:#185069; font-size:13.5pt; margin:1.45em 0 .5em; padding-left:.65em; border-left:3px solid #65a1a4; break-after:avoid; line-height:1.5; }
+h3 { font-size:12pt; break-after:avoid; }
+p { orphans:3; widows:3; margin:.65em 0 .85em; text-align:justify; }
+strong { font-weight:700; color:#173e52; }
+a { color:#276c83; text-decoration:none; }
+li { margin:.45em 0; }
+ul,ol { padding-left:1.6em; }
+table { border-collapse:collapse; width:100%; table-layout:fixed; margin:1em 0; font-size:9pt; line-height:1.65; }
+th,td { border-bottom:1px solid #cad9df; padding:.43em .55em; vertical-align:top; overflow-wrap:anywhere; }
+th { text-align:left; background:#e9f1f3; border-top:1.5px solid #6e9eac; color:#173f53; }
+tr { break-inside:avoid; }
+thead { display:table-header-group; }
+table p { margin:0; text-align:left; }
+code { font-family:Menlo,monospace; font-size:.82em; overflow-wrap:anywhere; }
+figure { margin:1.3em 0; break-inside:avoid; }
+figure img { width:100%; height:auto; display:block; }
+figcaption { font-size:8.5pt; color:#506873; margin-top:.65em; line-height:1.65; }
+.small-figure img { max-height:94mm; width:auto; max-width:100%; margin:0 auto; }
+.callout { background:#edf5f4; border-left:4px solid #3b8c87; padding:1em 1.2em; margin:1.3em 0; break-inside:avoid; font-size:10pt; }
+.cover { height:241mm; box-sizing:border-box; padding:21mm 5mm 10mm; position:relative; break-after:page; }
+.cover .eyebrow { color:#408187; letter-spacing:.1em; font-size:9pt; }
+.cover-title { font-size:37pt; font-weight:700; line-height:1.55; letter-spacing:.015em; margin-top:15mm; color:#173f53; }
+.cover-subtitle { font-size:17pt; line-height:1.8; margin-top:10mm; }
+.cover-rule { width:28mm; height:4px; background:#4c9b93; margin:12mm 0 10mm; }
+.cover p { font-size:11pt; line-height:2; text-align:left; }
+.cover-date { margin-top:16mm; font-size:10pt; }
+.cover-note { margin-top:6mm; font-size:9pt; color:#627783; line-height:1.9; }
+nav { break-after:page; }
+nav h2 { border:0; padding:0; font-size:21pt; margin:0 0 1em; }
+nav ul { padding:0; list-style:none; }
+nav li { margin:0; border-bottom:1px solid #d5e0e5; }
+nav a { display:flex; justify-content:space-between; gap:10px; font-size:11pt; padding:10px 0; }
+nav .page { min-width:16px; text-align:right; color:#637e8b; }
+nav .intro { color:#5b727d; font-size:10pt; margin-bottom:2em; }
+.ref-cite { white-space:nowrap; font-size:8.7pt; font-family:sans-serif; }
+.reference { break-inside:avoid; padding:3mm 0; border-bottom:1px solid #d4dfe4; font-size:9pt; line-height:1.65; }
+.reference p { margin:.25em 0; text-align:left; }
+.ref-title { font-family:'Hiragino Kaku Gothic ProN',sans-serif; color:#244d60; }
+.ref-note { color:#536b77; font-size:8pt; }
+.ref-path { font-family:Menlo,monospace; font-size:7.3pt; overflow-wrap:anywhere; color:#6c7c84; }
+
+#conclusion { margin-bottom: .8em; }
+
+h2.new-page { break-before:page; margin-top:0; }

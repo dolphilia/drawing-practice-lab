@@ -25,7 +25,7 @@ The Power of Feedback Revisited: A Meta-Analysis of Educational Feedback Researc
 
 ## 主張・報告の要点
 
-435研究、994効果量、61,000人超を集約し、平均効果 d=0.48 を報告。ただし異質性が大きく、フィードバックを単一の同じ処置とは扱えない。
+435研究、994効果量、61,000人超を集約し、平均効果 d=0.48 を報告（極端値35効果量の除外後。全効果量の集約は d=0.55）。ただし異質性が大きく、フィードバックを単一の同じ処置とは扱えない。
 
 ## 信頼性・適用の限界
 
@@ -40,3 +40,5 @@ The Power of Feedback Revisited: A Meta-Analysis of Educational Feedback Researc
 「上手い」だけでなく、目標との違いと次の修正を記録する候補。添削の有無だけでなく内容・時点・実行した修正を残す。
 
 分類の意味は [資料の評価方針](../../docs/evidence-policy.md)、横断索引は [資料一覧](../README.md)を参照。
+
+2026-10-02、総合報告書の編集時に出版社本文Abstract・General Impact・Outlier Analysisを再確認し、0.48と0.55の対象の違いを明記した。効果量を描画の改善率へ換算しない。

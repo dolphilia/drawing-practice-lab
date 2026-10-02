@@ -1,0 +1,57 @@
+{
+  "title": "紙と計算機で奥行きのある立方体を描く",
+  "overflows": [],
+  "missing": [],
+  "images": [
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/cube-manual-figures/workflow.svg",
+      "complete": true,
+      "width": 960
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/cube-manual-figures/projection-plane.svg",
+      "complete": true,
+      "width": 960
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/cube-manual-figures/angle-circle.svg",
+      "complete": true,
+      "width": 960
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/cube-manual-figures/half-edges.svg",
+      "complete": true,
+      "width": 960
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/cube-manual-figures/rotation-update.svg",
+      "complete": true,
+      "width": 960
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/cube-manual-figures/paper-point.svg",
+      "complete": true,
+      "width": 960
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/cube-manual-figures/example-1.svg",
+      "complete": true,
+      "width": 385
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/cube-manual-figures/example-2.svg",
+      "complete": true,
+      "width": 350
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/cube-manual-figures/example-3.svg",
+      "complete": true,
+      "width": 400
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/cube-manual-figures/ray-p0.svg",
+      "complete": true,
+      "width": 960
+    }
+  ]
+}

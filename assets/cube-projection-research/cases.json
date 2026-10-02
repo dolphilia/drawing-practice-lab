@@ -1,0 +1,1739 @@
+{
+  "version": 1,
+  "date": "2026-10-02",
+  "primary_selection_mm": 1,
+  "secondary_selection_mm": [
+    0.5,
+    2
+  ],
+  "cases": [
+    {
+      "id": "D1-2-0",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        0,
+        0,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D1-2-1",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        0,
+        0,
+        0
+      ],
+      "center_camera_mm": [
+        36.0,
+        -24.0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D1-4-0",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        0,
+        0,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        240
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D1-4-1",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        0,
+        0,
+        0
+      ],
+      "center_camera_mm": [
+        72.0,
+        -48.0,
+        240
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D2-2-0",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        30,
+        0,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D2-2-1",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        30,
+        0,
+        0
+      ],
+      "center_camera_mm": [
+        36.0,
+        -24.0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D2-4-0",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        30,
+        0,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        240
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D2-4-1",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        30,
+        0,
+        0
+      ],
+      "center_camera_mm": [
+        72.0,
+        -48.0,
+        240
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D3-2-0",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        45,
+        -20,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D3-2-1",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        45,
+        -20,
+        0
+      ],
+      "center_camera_mm": [
+        36.0,
+        -24.0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D3-4-0",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        45,
+        -20,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        240
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D3-4-1",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        45,
+        -20,
+        0
+      ],
+      "center_camera_mm": [
+        72.0,
+        -48.0,
+        240
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D4-2-0",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        65,
+        35,
+        15
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D4-2-1",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        65,
+        35,
+        15
+      ],
+      "center_camera_mm": [
+        36.0,
+        -24.0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D4-4-0",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        65,
+        35,
+        15
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        240
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D4-4-1",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        65,
+        35,
+        15
+      ],
+      "center_camera_mm": [
+        72.0,
+        -48.0,
+        240
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D5-2-0",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        15,
+        -70,
+        30
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D5-2-1",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        15,
+        -70,
+        30
+      ],
+      "center_camera_mm": [
+        36.0,
+        -24.0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D5-4-0",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        15,
+        -70,
+        30
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        240
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D5-4-1",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        15,
+        -70,
+        30
+      ],
+      "center_camera_mm": [
+        72.0,
+        -48.0,
+        240
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D6-2-0",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        0,
+        -90,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D6-2-1",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        0,
+        -90,
+        0
+      ],
+      "center_camera_mm": [
+        36.0,
+        -24.0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D6-4-0",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        0,
+        -90,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        240
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "D6-4-1",
+      "kind": "design",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        0,
+        -90,
+        0
+      ],
+      "center_camera_mm": [
+        72.0,
+        -48.0,
+        240
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "B01",
+      "kind": "boundary",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        0.1,
+        0,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "B02",
+      "kind": "boundary",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        89.9,
+        0,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "B03",
+      "kind": "boundary",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        0,
+        90,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "B04",
+      "kind": "boundary",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        30,
+        20,
+        90
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "B05",
+      "kind": "boundary",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        45,
+        -20,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        120
+      ],
+      "focal_mm": 50,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "B06",
+      "kind": "boundary",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        45,
+        20,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        1200
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    },
+    {
+      "id": "B07",
+      "kind": "boundary",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        45,
+        20,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        56.12838576309054
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "outside-paper"
+    },
+    {
+      "id": "B08",
+      "kind": "boundary",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        45,
+        20,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        50.72838576309054
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "outside-paper"
+    },
+    {
+      "id": "B09",
+      "kind": "boundary",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        45,
+        20,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        50.12838576309054
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "on-eye-plane"
+    },
+    {
+      "id": "B10",
+      "kind": "boundary",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        45,
+        20,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        44.12838576309054
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "crosses-eye-plane"
+    },
+    {
+      "id": "B11",
+      "kind": "boundary",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        45,
+        20,
+        0
+      ],
+      "center_camera_mm": [
+        300,
+        0,
+        120
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "outside-paper"
+    },
+    {
+      "id": "B12",
+      "kind": "boundary",
+      "unit": "mm",
+      "rotation_order": "fixed-Y-X-Z",
+      "edge_mm": 60,
+      "angles_deg": [
+        45,
+        20,
+        0
+      ],
+      "center_camera_mm": [
+        0,
+        0,
+        600
+      ],
+      "focal_mm": 100,
+      "paper_scale": 1,
+      "paper_half_mm": [
+        90,
+        125
+      ],
+      "camera_world": {
+        "eye": [
+          13,
+          -17,
+          29
+        ],
+        "axes": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            -0.8,
+            0,
+            0.6
+          ],
+          [
+            0.6,
+            0,
+            0.8
+          ]
+        ]
+      },
+      "expected": "inside-paper"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "projection": "orthographic",
+  "image": {"width": 800, "height": 800, "scale_px_per_unit": 200, "origin_px": [400, 410]},
+  "split_note": "Fixed before rendering; 3+3 is coverage, not a practice dose",
+  "views": [
+    {"id": "T1", "split": "training", "azimuth_deg": 25, "elevation_deg": 15},
+    {"id": "T2", "split": "training", "azimuth_deg": 115, "elevation_deg": 25},
+    {"id": "T3", "split": "training", "azimuth_deg": 225, "elevation_deg": 35},
+    {"id": "E1", "split": "evaluation", "azimuth_deg": 65, "elevation_deg": 20},
+    {"id": "E2", "split": "evaluation", "azimuth_deg": 155, "elevation_deg": 30},
+    {"id": "E3", "split": "evaluation", "azimuth_deg": 295, "elevation_deg": 25}
+  ]
+}

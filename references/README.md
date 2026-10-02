@@ -1,10 +1,10 @@
 # 資料一覧
 
-2026-10-02 時点、**54件**。初回33件から計画調査第1〜5回で39件、第6〜9回で15件追加した。研究・方法論・論評等36件、実践教材18件。原典のURL・確認範囲・限界を記し、訂正記事・別公開版は元ノートへ統合して重複計上しない。
+2026-10-02 時点、**72件の資料ノート**。初回33件から計画調査第1〜5回で39件、第6〜9回で54件となり、リクノ・作家の学習歴・人体抽象化・古典の追加依頼で11件を追加した。人体と記憶描画の追加計画で2件を加え、立方体の透視作図の初期調査で5件を加えた。研究・方法論・論評等39件、実践教材30件、経験談3件。原典のURL・確認範囲・限界を記し、訂正記事・別公開版は元ノートへ統合して重複計上しない。複数の関連取材を一つのノートに統合したものもあり、件数は独立した証拠の数ではない。
 
 **根拠の種類は効果の保証ではありません。** メタ分析でも対象と質の点検が必要で、実践教材は手順の出典と学習効果のデータを分けます。媒体別のディレクトリは維持し、この索引で主題と根拠を横断します。
 
-[分類方針](../docs/evidence-policy.md) / [分析・収集記録22件](../research/README.md) / [初回収集の範囲](../research/topics/2026-10-01_collection-log.md) / [第1回計画調査の記録](../research/topics/2026-10-01_collection-measurement-and-drawing.md) / [第2回計画調査の記録](../research/topics/2026-10-01_collection-practice-schedules.md)
+[分類方針](../docs/evidence-policy.md) / [分析・収集記録43件](../research/README.md) / [初回収集の範囲](../research/topics/2026-10-01_collection-log.md) / [第1回計画調査の記録](../research/topics/2026-10-01_collection-measurement-and-drawing.md) / [第2回計画調査の記録](../research/topics/2026-10-01_collection-practice-schedules.md)
 
 [第3回計画調査の記録](../research/topics/2026-10-01_collection-deliberate-practice.md)では意図的練習の訂正と定義・選別を点検しました。[第4回計画調査](../research/topics/2026-10-01_collection-toda-method.md)では洞田講座の全15回の本文と指定図6点を確認し、比率・訂正・例外を記録しました。
 
@@ -91,7 +91,7 @@
 | [工学スケッチの評価レビュー](articles/merzdorf-2024-assessment-review.md) | レビュー | 出版社本文の指定節・表 |
 | [高齢成人の観察描画](articles/vodyanyk-2025-drawing-feasibility.md) | 条件・群比較 | PMC本文指定節 |
 | [分散効果が限定的な運動系列](articles/gupta-2026-motor-spacing-limits.md) | 条件・群比較 | 出版社本文指定節 |
-| [図形再生と交互練習](articles/albaret-thon-1998-drawing-schedule.md) | 条件・群比較 | 検索抽出・本文保留 |
+| [図形再生と交互練習](articles/albaret-thon-1998-drawing-schedule.md) | 条件・群比較 | 著者公開本文の方法・結果・考察指定箇所 |
 
 ## 第8・9回の追加資料
 
@@ -107,3 +107,42 @@
 | [構図と視線経路](articles/kirtley-2018-composition-gaze.md) | 条件・群比較 | 大学公開要旨 |
 | [色調和と好みの区別](articles/schloss-2011-color-judgments.md) | 条件・群比較 | Abstract/Introductionのみ |
 | [3D運動制御から2D模写へ](articles/snapp-childs-2016-drawing-transfer.md) | 条件・群比較 | 著者原稿Methods/Results/Discussion指定節 |
+
+## 追加依頼：リクノ・作家の学習歴・人体抽象化・古典
+
+[わかりやすい総括](../research/topics/rikuno-and-master-artists-summary.md) / [検索・採否・保留の記録](../research/topics/2026-10-02_collection-artists-and-abstraction.md)
+
+| 資料 | 根拠の種類 | 確認範囲 |
+| --- | --- | --- |
+| [リクノ：線画を立体情報として設計する](books/rikuno-2015-line-design.md) | 実践者の提案 | 公開序章本文・出版社見本6頁。いもむし理論の応用1頁、各節定義は未確認 |
+| [リクノ：キャラクター創造と空間](books/rikuno-2016-character-design.md) | 実践者の提案 | 出版社説明・目次 |
+| [Kim Jung Gi：観察と記憶](artists/kim-jung-gi-learning-interviews.md) | 本人の経験談 | 記者の本人取材本文。初出不明の公式転載は補助 |
+| [寺田克也：構造を見る習慣](artists/terada-katsuya-learning-interviews.md) | 本人の経験談 | AMG・エスの取材本文の指定箇所 |
+| [吉成曜：鑑賞と仕事の手伝い](artists/yoshinari-you-learning-interviews.md) | 本人の経験談 | Febri①・③本文。他誌の非公式英訳は原文照合保留 |
+| [Proko：Robo Beanと腹斜筋](videos/proko-robo-bean-and-obliques.md) | 実践者の提案 | 公式Lesson Notes指定節と図3点。動画工程は未確認 |
+| [Hampton：動きから人体構造へ](books/hampton-figure-design-invention.md) | 実践者の提案 | 著者・出版社説明、目次、正誤表 |
+| [Vilppu：球・箱・円柱](videos/vilppu-figure-construction.md) | 実践者の提案 | 公式シラバス。講義未視聴 |
+| [Bridgman：量塊と接合](books/bridgman-1920-constructive-anatomy.md) | 実践者の提案 | 原著OCR・後刷PDFの指定節本文、別スキャンのConstruction図版1頁 |
+| [Speed：視覚記憶](books/speed-1913-visual-memory.md) | 実践者の提案 | 原著転記の序文・第XVIII章指定箇所 |
+| [レオナルド：記憶描画の照合と解剖](books/leonardo-memory-and-functional-anatomy.md) | 実践者の提案 | Richter英訳の指定項目。イタリア語手稿未校合 |
+
+## 追加計画：観察・記憶描画・照合
+
+| 資料 | 根拠の種類 | 確認範囲 |
+| --- | --- | --- |
+| [トレースと模写後の記憶再生](articles/gonzalez-2011-tracing-copying.md) | 条件・群比較 | 共著者公開本文のMethods・Results・Discussion指定箇所 |
+| [触覚記憶描画と空間認知](articles/likova-2018-memory-drawing-transfer.md) | 条件・群比較 | PMC著者稿の方法・描画指標・CTB・追跡・考察 |
+
+[根拠表](../research/learning-science/observation-memory-feedback.md) / [収集・保留記録](../research/topics/2026-10-02_collection-torso-and-memory.md)。Albaretの確認範囲を更新し、Kimの取材、Proko・Bridgman・リクノの図の確認を元ノートへ統合した。
+
+## 立方体の透視作図
+
+[初期調査](../research/topics/cube-construction-feasibility.md) / [継続研究計画](../docs/cube-construction-research-plan.md) / [取得と検算の記録](../research/topics/2026-10-02_collection-cube-construction.md)
+
+| 資料 | 根拠の種類 | 確認範囲 |
+| --- | --- | --- |
+| [Storeyの測点と紙外の距離点](books/storey-1910-perspective-measuring-points.md) | 実践教材 | 指定節の本文、図85・116・124を画像照合 |
+| [Ruskinの点から作る透視図](books/ruskin-elements-perspective-point-construction.md) | 実践教材 | 導入とProblem I〜IIIの指定本文、図4・5を画像照合 |
+| [Treibergsの投影の幾何学](articles/treibergs-perspective-geometry.md) | 方法論・数学教材 | 回転・投影・測点の本文 |
+| [Illinois大学の三点透視](articles/illinois-recipe-for-cube.md) | 実践教材 | 本文、perspframe・cube3pointを画像照合。全構成の再実装は未実施 |
+| [石川隆の立方体の作図](articles/ishikawa-2015-cube-perspective.md) | 実践教材・手法の提案 | pp.41〜45の本文と図1〜12。図4の画面を独自の数値例で照合 |

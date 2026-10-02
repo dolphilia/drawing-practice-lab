@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="35" y="40" font-family="sans-serif" font-size="24" fill="#163c50">測点を使う　辺1本を延ばす独自構成例</text>
+<line x1="446.81648" y1="530.00000" x2="100.00000" y2="428.13170" stroke="#276b85" stroke-width="2" stroke-dasharray=""/>
+<line x1="446.81648" y1="530.00000" x2="100.00000" y2="130.00000" stroke="#b26d33" stroke-width="2" stroke-dasharray=""/>
+<line x1="351.37925" y1="501.96780" x2="351.37925" y2="419.92768" stroke="#777777" stroke-width="1" stroke-dasharray="6 4"/>
+<circle cx="351.37925038999435" cy="501.9677995185237" r="4" fill="#183f54"/>
+<text x="358.379" y="489.968" font-family="sans-serif" font-size="16" fill="#203d4d">P</text>
+<circle cx="100.0" cy="428.13169557429353" r="4" fill="#183f54"/>
+<text x="107.000" y="416.132" font-family="sans-serif" font-size="16" fill="#203d4d">V</text>
+<circle cx="351.37925038999435" cy="419.9276840249346" r="4" fill="#183f54"/>
+<text x="358.379" y="407.928" font-family="sans-serif" font-size="16" fill="#203d4d">B</text>
+<circle cx="100.0" cy="130.0" r="4" fill="#183f54"/>
+<text x="107.000" y="118.000" font-family="sans-serif" font-size="16" fill="#203d4d">M</text>
+<circle cx="446.8164845801687" cy="530.0" r="4" fill="#183f54"/>
+<text x="453.816" y="518.000" font-family="sans-serif" font-size="16" fill="#203d4d">Q</text>
+<text x="40.000" y="600.000" font-family="sans-serif" font-size="17" fill="#203d4d">P：始点　V：辺方向の消失点　B：実長を移す点　M：測点　Q：次の頂点</text>
+<text x="40.000" y="635.000" font-family="sans-serif" font-size="16" fill="#203d4d">図全体を同じ比率で縮小して表示。原典図の転載・トレースではない。</text>
+<text x="40.000" y="667.000" font-family="sans-serif" font-size="14" fill="#203d4d">Case D2-2-1 / P0 → P4 / diagram labels are local</text>
+</svg>

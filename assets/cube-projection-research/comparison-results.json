@@ -1,0 +1,1471 @@
+{
+  "version": 1,
+  "seed": 20261002,
+  "kind": "synthetic; not human measurements",
+  "results": [
+    {
+      "id": "D1-2-0",
+      "variants": {
+        "weak": {
+          "max_mm": 11.785113019775796,
+          "rms_mm": 9.718253158075504,
+          "edge_line_deviation_mm": 8.333333333333336,
+          "concurrency_residual": 0.0,
+          "bound_mm": 11.785113019775793
+        },
+        "linear": {
+          "max_mm": 2.9462782549439464,
+          "rms_mm": 2.429563289518874,
+          "edge_line_deviation_mm": 2.083333333333332,
+          "concurrency_residual": 0.0,
+          "bound_mm": 2.946278254943948
+        },
+        "quadratic": {
+          "max_mm": 0.7365695637359904,
+          "rms_mm": 0.6073908223797209,
+          "edge_line_deviation_mm": 0.5208333333333357,
+          "concurrency_residual": 0.0,
+          "bound_mm": 0.736569563735987
+        },
+        "depth-table": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0,
+          "edge_line_deviation_mm": 0.0,
+          "concurrency_residual": 0.0
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.04714045207911054,
+          "rms_mm": 0.033333333333338544
+        }
+      },
+      "exact_divisions": 2,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 6
+    },
+    {
+      "id": "D1-2-1",
+      "variants": {
+        "weak": {
+          "max_mm": 23.68778400591982,
+          "rms_mm": 13.880441875771341,
+          "edge_line_deviation_mm": 18.33333333333333,
+          "concurrency_residual": 0.0,
+          "bound_mm": 23.687784005919823
+        },
+        "linear": {
+          "max_mm": 5.921946001479948,
+          "rms_mm": 3.470110468942832,
+          "edge_line_deviation_mm": 4.583333333333329,
+          "concurrency_residual": 1.52493955541006e-17,
+          "bound_mm": 5.921946001479956
+        },
+        "quadratic": {
+          "max_mm": 1.4804865003699854,
+          "rms_mm": 0.8675276172357074,
+          "edge_line_deviation_mm": 1.1458333333333286,
+          "concurrency_residual": 0.0,
+          "bound_mm": 1.480486500369989
+        },
+        "depth-table": {
+          "max_mm": 1.4210854715202004e-14,
+          "rms_mm": 7.105427357601002e-15,
+          "edge_line_deviation_mm": 1.4210854715202004e-14,
+          "concurrency_residual": 1.1720628940792386e-17
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.047140452079103,
+          "rms_mm": 0.028867513459480673
+        }
+      },
+      "exact_divisions": 2,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 6
+    },
+    {
+      "id": "D1-4-0",
+      "variants": {
+        "weak": {
+          "max_mm": 2.525381361380528,
+          "rms_mm": 2.2622528275776554,
+          "edge_line_deviation_mm": 1.7857142857142865,
+          "concurrency_residual": 0.0,
+          "bound_mm": 2.525381361380527
+        },
+        "linear": {
+          "max_mm": 0.31567267017256695,
+          "rms_mm": 0.2827816034472061,
+          "edge_line_deviation_mm": 0.2232142857142865,
+          "concurrency_residual": 0.0,
+          "bound_mm": 0.3156726701725659
+        },
+        "quadratic": {
+          "max_mm": 0.039459083771571805,
+          "rms_mm": 0.0353477004309017,
+          "edge_line_deviation_mm": 0.027901785714286476,
+          "concurrency_residual": 0.0,
+          "bound_mm": 0.03945908377157074
+        },
+        "depth-table": {
+          "max_mm": 2.5121479338940403e-15,
+          "rms_mm": 1.7763568394002505e-15,
+          "edge_line_deviation_mm": 1.7763568394002505e-15,
+          "concurrency_residual": 0.0
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.02020305089104414,
+          "rms_mm": 0.018098022620621174
+        }
+      },
+      "exact_divisions": 2,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 6
+    },
+    {
+      "id": "D1-4-1",
+      "variants": {
+        "weak": {
+          "max_mm": 7.643190913940249,
+          "rms_mm": 5.138850585136404,
+          "edge_line_deviation_mm": 6.071428571428569,
+          "concurrency_residual": 0.0,
+          "bound_mm": 7.643190913940249
+        },
+        "linear": {
+          "max_mm": 0.9553988642425314,
+          "rms_mm": 0.6423563231420484,
+          "edge_line_deviation_mm": 0.7589285714285695,
+          "concurrency_residual": 8.141437688431471e-18,
+          "bound_mm": 0.9553988642425312
+        },
+        "quadratic": {
+          "max_mm": 0.11942485803031662,
+          "rms_mm": 0.08029454039275614,
+          "edge_line_deviation_mm": 0.0948660714285694,
+          "concurrency_residual": 1.2822764359279562e-16,
+          "bound_mm": 0.1194248580303164
+        },
+        "depth-table": {
+          "max_mm": 7.105427357601002e-15,
+          "rms_mm": 3.9968028886505635e-15,
+          "edge_line_deviation_mm": 7.105427357601002e-15,
+          "concurrency_residual": 1.6028455449099448e-16
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.05555555555555536,
+          "rms_mm": 0.04234705260937841
+        }
+      },
+      "exact_divisions": 2,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 6
+    },
+    {
+      "id": "D2-2-0",
+      "variants": {
+        "weak": {
+          "max_mm": 13.806667475819856,
+          "rms_mm": 8.1749032821278,
+          "edge_line_deviation_mm": 12.907726796465056,
+          "concurrency_residual": 0.0,
+          "bound_mm": 21.949630835418844
+        },
+        "linear": {
+          "max_mm": 4.71506462839358,
+          "rms_mm": 2.6384685895857913,
+          "edge_line_deviation_mm": 4.408070677270105,
+          "concurrency_residual": 0.0826992798210886,
+          "bound_mm": 7.495938331218098
+        },
+        "quadratic": {
+          "max_mm": 1.6102245157177646,
+          "rms_mm": 0.8971771421061598,
+          "edge_line_deviation_mm": 1.5053841317070582,
+          "concurrency_residual": 0.010582801338208738,
+          "bound_mm": 2.559910546411363
+        },
+        "depth-table": {
+          "max_mm": 0.2643397667797433,
+          "rms_mm": 0.16501078168238326,
+          "edge_line_deviation_mm": 0.247128823592646,
+          "concurrency_residual": 0.00022535753817229387
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.1110860606601648,
+          "rms_mm": 0.08937269772249895
+        }
+      },
+      "exact_divisions": 4,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 7
+    },
+    {
+      "id": "D2-2-1",
+      "variants": {
+        "weak": {
+          "max_mm": 30.934013040458094,
+          "rms_mm": 14.398320492215165,
+          "edge_line_deviation_mm": 20.304205739255494,
+          "concurrency_residual": 0.0,
+          "bound_mm": 40.63891738432458
+        },
+        "linear": {
+          "max_mm": 10.564161913566226,
+          "rms_mm": 4.786873918191828,
+          "edge_line_deviation_mm": 6.93401521087221,
+          "concurrency_residual": 0.17661833334588728,
+          "bound_mm": 13.878448382321105
+        },
+        "quadratic": {
+          "max_mm": 3.6077283859058773,
+          "rms_mm": 1.6315077296736813,
+          "edge_line_deviation_mm": 2.3680102320697927,
+          "concurrency_residual": 0.019644607755137607,
+          "bound_mm": 4.739578263840419
+        },
+        "depth-table": {
+          "max_mm": 0.5922565895786894,
+          "rms_mm": 0.2748957046440247,
+          "edge_line_deviation_mm": 0.38874036903998643,
+          "concurrency_residual": 0.00039463760541585247
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.157928467644208,
+          "rms_mm": 0.08760860785027795
+        }
+      },
+      "exact_divisions": 4,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 7
+    },
+    {
+      "id": "D2-4-0",
+      "variants": {
+        "weak": {
+          "max_mm": 2.740921815592331,
+          "rms_mm": 1.8144130936749094,
+          "edge_line_deviation_mm": 2.7342390744856355,
+          "concurrency_residual": 0.0,
+          "bound_mm": 4.357475988058817
+        },
+        "linear": {
+          "max_mm": 0.46802110373575856,
+          "rms_mm": 0.2884812409285836,
+          "edge_line_deviation_mm": 0.4668800044709259,
+          "concurrency_residual": 0.012602915452807225,
+          "bound_mm": 0.7440528620086302
+        },
+        "quadratic": {
+          "max_mm": 0.07991608965128558,
+          "rms_mm": 0.04898710084232063,
+          "edge_line_deviation_mm": 0.0797212433282854,
+          "concurrency_residual": 0.00040023566887485555,
+          "bound_mm": 0.12704938890778825
+        },
+        "depth-table": {
+          "max_mm": 0.018124738200502026,
+          "rms_mm": 0.014860028172716828,
+          "edge_line_deviation_mm": 0.01725798094088203,
+          "concurrency_residual": 7.550225603008792e-06
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.08926754816147695,
+          "rms_mm": 0.0634427884059283
+        }
+      },
+      "exact_divisions": 4,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 7
+    },
+    {
+      "id": "D2-4-1",
+      "variants": {
+        "weak": {
+          "max_mm": 9.77103310853822,
+          "rms_mm": 5.167819661374382,
+          "edge_line_deviation_mm": 9.123876120190417,
+          "concurrency_residual": 0.0,
+          "bound_mm": 11.779148180505592
+        },
+        "linear": {
+          "max_mm": 1.6684349309352484,
+          "rms_mm": 0.8552853999460116,
+          "edge_line_deviation_mm": 1.5579308201452846,
+          "concurrency_residual": 0.05165658761457567,
+          "bound_mm": 2.0113269561889857
+        },
+        "quadratic": {
+          "max_mm": 0.2848905625273621,
+          "rms_mm": 0.14570435132951098,
+          "edge_line_deviation_mm": 0.266021634707151,
+          "concurrency_residual": 0.0015665686796595313,
+          "bound_mm": 0.3434404646838231
+        },
+        "depth-table": {
+          "max_mm": 0.06167284519243684,
+          "rms_mm": 0.03569503918724515,
+          "edge_line_deviation_mm": 0.05758811716887581,
+          "concurrency_residual": 2.9284077850754827e-05
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.11412590899555579,
+          "rms_mm": 0.06653187510159737
+        }
+      },
+      "exact_divisions": 4,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 7
+    },
+    {
+      "id": "D3-2-0",
+      "variants": {
+        "weak": {
+          "max_mm": 11.655330049469072,
+          "rms_mm": 6.299606004815291,
+          "edge_line_deviation_mm": 9.163840049456427,
+          "concurrency_residual": 4.5468926774529737e-17,
+          "bound_mm": 30.4541825317234
+        },
+        "linear": {
+          "max_mm": 3.416592757401208,
+          "rms_mm": 1.7791944004372329,
+          "edge_line_deviation_mm": 3.374708929437596,
+          "concurrency_residual": 0.05497642999989134,
+          "bound_mm": 12.721825083748366
+        },
+        "quadratic": {
+          "max_mm": 1.4272356644865738,
+          "rms_mm": 0.6195400529260575,
+          "edge_line_deviation_mm": 1.4097392587749493,
+          "concurrency_residual": 0.01307525019390876,
+          "bound_mm": 5.314371295072497
+        },
+        "depth-table": {
+          "max_mm": 0.22026455519626253,
+          "rms_mm": 0.13291816762186318,
+          "edge_line_deviation_mm": 0.2175643437893463,
+          "concurrency_residual": 0.0016366927827336786
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.1788991196259957,
+          "rms_mm": 0.107952203254322
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 9
+    },
+    {
+      "id": "D3-2-1",
+      "variants": {
+        "weak": {
+          "max_mm": 22.38995427063952,
+          "rms_mm": 12.378315083683338,
+          "edge_line_deviation_mm": 22.31188897503713,
+          "concurrency_residual": 2.7755575615628914e-17,
+          "bound_mm": 56.321675824517264
+        },
+        "linear": {
+          "max_mm": 9.35310220747145,
+          "rms_mm": 4.264330432461376,
+          "edge_line_deviation_mm": 9.320491480365899,
+          "concurrency_residual": 0.13991430456547438,
+          "bound_mm": 23.527622437959426
+        },
+        "quadratic": {
+          "max_mm": 3.907132629481177,
+          "rms_mm": 1.6586282839505053,
+          "edge_line_deviation_mm": 3.8935099369114945,
+          "concurrency_residual": 0.042467892240482,
+          "bound_mm": 9.828347780486457
+        },
+        "depth-table": {
+          "max_mm": 0.6029857942451861,
+          "rms_mm": 0.2519434870067575,
+          "edge_line_deviation_mm": 0.6008834110199772,
+          "concurrency_residual": 0.004220915756503345
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.22863051742406404,
+          "rms_mm": 0.11261644825192317
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 9
+    },
+    {
+      "id": "D3-4-0",
+      "variants": {
+        "weak": {
+          "max_mm": 2.5037883185801384,
+          "rms_mm": 1.441906300496605,
+          "edge_line_deviation_mm": 2.2097684589827336,
+          "concurrency_residual": 2.309332959369665e-17,
+          "bound_mm": 5.603478177369816
+        },
+        "linear": {
+          "max_mm": 0.3143214062159574,
+          "rms_mm": 0.19386455629030003,
+          "edge_line_deviation_mm": 0.3031233372051056,
+          "concurrency_residual": 0.0078326370908221,
+          "bound_mm": 1.1703888153760567
+        },
+        "quadratic": {
+          "max_mm": 0.06565176960162855,
+          "rms_mm": 0.03260233815953633,
+          "edge_line_deviation_mm": 0.06331284825505477,
+          "concurrency_residual": 0.0007903465800788677,
+          "bound_mm": 0.24445709179157293
+        },
+        "depth-table": {
+          "max_mm": 0.019966958946642577,
+          "rms_mm": 0.013435533268873517,
+          "edge_line_deviation_mm": 0.015886567234490438,
+          "concurrency_residual": 0.0002265636171889171
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.10491734358439064,
+          "rms_mm": 0.07558530933729204
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 9
+    },
+    {
+      "id": "D3-4-1",
+      "variants": {
+        "weak": {
+          "max_mm": 8.774135833801735,
+          "rms_mm": 4.91379650684362,
+          "edge_line_deviation_mm": 8.387089032317945,
+          "concurrency_residual": 1.391256753590692e-16,
+          "bound_mm": 15.122562315186304
+        },
+        "linear": {
+          "max_mm": 1.8326386075607053,
+          "rms_mm": 0.8861161545155715,
+          "edge_line_deviation_mm": 1.7517968101725816,
+          "concurrency_residual": 0.033239423670598636,
+          "bound_mm": 3.158623489425144
+        },
+        "quadratic": {
+          "max_mm": 0.38278006285057015,
+          "rms_mm": 0.17622091877779417,
+          "edge_line_deviation_mm": 0.36589477616201327,
+          "concurrency_residual": 0.005364619877669813,
+          "bound_mm": 0.6597362364927614
+        },
+        "depth-table": {
+          "max_mm": 0.06058897711056454,
+          "rms_mm": 0.03342970695318437,
+          "edge_line_deviation_mm": 0.05791626150186874,
+          "concurrency_residual": 0.0005400280659038463
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.08220170914160518,
+          "rms_mm": 0.055085878961698156
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 9
+    },
+    {
+      "id": "D4-2-0",
+      "variants": {
+        "weak": {
+          "max_mm": 11.482258346552612,
+          "rms_mm": 6.475697602580488,
+          "edge_line_deviation_mm": 9.116442153375452,
+          "concurrency_residual": 5.551115123125783e-17,
+          "bound_mm": 30.62483192230899
+        },
+        "linear": {
+          "max_mm": 3.5972405515993846,
+          "rms_mm": 1.8295818608894023,
+          "edge_line_deviation_mm": 3.477616318656663,
+          "concurrency_residual": 0.05247750981461644,
+          "bound_mm": 12.725910995664854
+        },
+        "quadratic": {
+          "max_mm": 1.494805365978271,
+          "rms_mm": 0.6380296811155212,
+          "edge_line_deviation_mm": 1.4450964452822919,
+          "concurrency_residual": 0.013139569705476518,
+          "bound_mm": 5.288153452741411
+        },
+        "depth-table": {
+          "max_mm": 0.2282634490846668,
+          "rms_mm": 0.11677627402552201,
+          "edge_line_deviation_mm": 0.22067267509723537,
+          "concurrency_residual": 0.0013607459854613113
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.30151976685424714,
+          "rms_mm": 0.21367234240333677
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 9
+    },
+    {
+      "id": "D4-2-1",
+      "variants": {
+        "weak": {
+          "max_mm": 22.408090938919855,
+          "rms_mm": 12.518267591507081,
+          "edge_line_deviation_mm": 21.75197335491959,
+          "concurrency_residual": 4.650907647952727e-17,
+          "bound_mm": 53.802073233898746
+        },
+        "linear": {
+          "max_mm": 9.104747850548474,
+          "rms_mm": 4.233133942569232,
+          "edge_line_deviation_mm": 9.038863546974511,
+          "concurrency_residual": 0.10902881892467277,
+          "bound_mm": 22.357033569809573
+        },
+        "quadratic": {
+          "max_mm": 3.7834072388703226,
+          "rms_mm": 1.6244021919936664,
+          "edge_line_deviation_mm": 3.7560295283437592,
+          "concurrency_residual": 0.038519392702271615,
+          "bound_mm": 9.290291618849047
+        },
+        "depth-table": {
+          "max_mm": 0.5777431666304275,
+          "rms_mm": 0.23422332406664623,
+          "edge_line_deviation_mm": 0.5735624680759085,
+          "concurrency_residual": 0.0019863720240653445
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.24646231561017984,
+          "rms_mm": 0.1875731255860144
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 9
+    },
+    {
+      "id": "D4-4-0",
+      "variants": {
+        "weak": {
+          "max_mm": 2.474580628413608,
+          "rms_mm": 1.4821410306362564,
+          "edge_line_deviation_mm": 2.176567758256527,
+          "concurrency_residual": 2.7755575615628914e-17,
+          "bound_mm": 5.648279582532348
+        },
+        "linear": {
+          "max_mm": 0.3317278673169661,
+          "rms_mm": 0.19929339287552292,
+          "edge_line_deviation_mm": 0.326935991252831,
+          "concurrency_residual": 0.007346895160792273,
+          "bound_mm": 1.1735493508713155
+        },
+        "quadratic": {
+          "max_mm": 0.06892346911432591,
+          "rms_mm": 0.033523850958934426,
+          "edge_line_deviation_mm": 0.06792785567799525,
+          "concurrency_residual": 0.0007874067116086202,
+          "bound_mm": 0.2438296580058851
+        },
+        "depth-table": {
+          "max_mm": 0.02100594992401345,
+          "rms_mm": 0.010797407651731648,
+          "edge_line_deviation_mm": 0.016298540071165556,
+          "concurrency_residual": 0.00018358927710811917
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.1652016991294648,
+          "rms_mm": 0.1123459851235689
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 9
+    },
+    {
+      "id": "D4-4-1",
+      "variants": {
+        "weak": {
+          "max_mm": 8.649791013537072,
+          "rms_mm": 4.935194925105866,
+          "edge_line_deviation_mm": 8.547876179086076,
+          "concurrency_residual": 5.056269477469302e-17,
+          "bound_mm": 14.5687207234575
+        },
+        "linear": {
+          "max_mm": 1.7971767297959946,
+          "rms_mm": 0.8780857434995096,
+          "edge_line_deviation_mm": 1.7760017709317055,
+          "concurrency_residual": 0.027397862827893138,
+          "bound_mm": 3.0269593596097657
+        },
+        "quadratic": {
+          "max_mm": 0.37340141433075535,
+          "rms_mm": 0.17310837634943713,
+          "edge_line_deviation_mm": 0.3690018695017844,
+          "concurrency_residual": 0.004767706894235703,
+          "bound_mm": 0.6289147234442072
+        },
+        "depth-table": {
+          "max_mm": 0.05848211492820813,
+          "rms_mm": 0.029475713225678338,
+          "edge_line_deviation_mm": 0.05779305838893097,
+          "concurrency_residual": 0.0003228381756974425
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.16157146633799724,
+          "rms_mm": 0.11761897514799437
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 9
+    },
+    {
+      "id": "D5-2-0",
+      "variants": {
+        "weak": {
+          "max_mm": 13.814642729760616,
+          "rms_mm": 8.882362671972684,
+          "edge_line_deviation_mm": 12.084105471639937,
+          "concurrency_residual": 1.2745804897841496e-16,
+          "bound_mm": 21.24078711338734
+        },
+        "linear": {
+          "max_mm": 4.692074458552253,
+          "rms_mm": 2.537374996512993,
+          "edge_line_deviation_mm": 4.104306115408008,
+          "concurrency_residual": 0.07355523468119157,
+          "bound_mm": 7.2143273368603165
+        },
+        "quadratic": {
+          "max_mm": 1.5936396731542444,
+          "rms_mm": 0.7913124830420819,
+          "edge_line_deviation_mm": 1.39400708877539,
+          "concurrency_residual": 0.008770846389454703,
+          "bound_mm": 2.4503102754872454
+        },
+        "depth-table": {
+          "max_mm": 0.34637698630425157,
+          "rms_mm": 0.18863000593009055,
+          "edge_line_deviation_mm": 0.2736779901961767,
+          "concurrency_residual": 0.0014328648585935772
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.24563159888754674,
+          "rms_mm": 0.16459011202456716
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 7
+    },
+    {
+      "id": "D5-2-1",
+      "variants": {
+        "weak": {
+          "max_mm": 32.09381329607345,
+          "rms_mm": 14.85045408694459,
+          "edge_line_deviation_mm": 20.681643743589227,
+          "concurrency_residual": 1.073866248293402e-16,
+          "bound_mm": 39.784065686015914
+        },
+        "linear": {
+          "max_mm": 10.900503515711277,
+          "rms_mm": 4.57548427534459,
+          "edge_line_deviation_mm": 7.024417081820073,
+          "concurrency_residual": 0.09107284507569192,
+          "bound_mm": 13.512459360283081
+        },
+        "quadratic": {
+          "max_mm": 3.7023016180682795,
+          "rms_mm": 1.482501237362285,
+          "edge_line_deviation_mm": 2.3858082051461906,
+          "concurrency_residual": 0.007430843334545301,
+          "bound_mm": 4.589439385212986
+        },
+        "depth-table": {
+          "max_mm": 0.6388981747817568,
+          "rms_mm": 0.30846870442748614,
+          "edge_line_deviation_mm": 0.4693783808042988,
+          "concurrency_residual": 0.0010759658964425347
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.21325060727950715,
+          "rms_mm": 0.16086068419420418
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 7
+    },
+    {
+      "id": "D5-4-0",
+      "variants": {
+        "weak": {
+          "max_mm": 2.7471740448145474,
+          "rms_mm": 2.0247743155502618,
+          "edge_line_deviation_mm": 2.6521109491776294,
+          "concurrency_residual": 8.071265572977473e-17,
+          "bound_mm": 4.223933994588377
+        },
+        "linear": {
+          "max_mm": 0.46653197701245985,
+          "rms_mm": 0.28372190888320725,
+          "edge_line_deviation_mm": 0.42244773504302147,
+          "concurrency_residual": 0.014620965316384116,
+          "bound_mm": 0.7173190504566217
+        },
+        "quadratic": {
+          "max_mm": 0.07922762883770784,
+          "rms_mm": 0.04389393490317963,
+          "edge_line_deviation_mm": 0.07174113245065936,
+          "concurrency_residual": 0.0006853306366892131,
+          "bound_mm": 0.12181691778498828
+        },
+        "depth-table": {
+          "max_mm": 0.024719735343315282,
+          "rms_mm": 0.015220386174390947,
+          "edge_line_deviation_mm": 0.022816411575407935,
+          "concurrency_residual": 0.0002371804417420527
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.13843862089444017,
+          "rms_mm": 0.07330492804224224
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 7
+    },
+    {
+      "id": "D5-4-1",
+      "variants": {
+        "weak": {
+          "max_mm": 10.05567436859767,
+          "rms_mm": 5.248704032836748,
+          "edge_line_deviation_mm": 6.917760046953541,
+          "concurrency_residual": 1.1844886811131917e-16,
+          "bound_mm": 11.599128929649094
+        },
+        "linear": {
+          "max_mm": 1.7076798072661161,
+          "rms_mm": 0.7909818830507482,
+          "edge_line_deviation_mm": 1.1747913377730317,
+          "concurrency_residual": 0.045609865655904074,
+          "bound_mm": 1.9697931266444024
+        },
+        "quadratic": {
+          "max_mm": 0.29000246201798147,
+          "rms_mm": 0.12661934694290572,
+          "edge_line_deviation_mm": 0.19950600742711894,
+          "concurrency_residual": 0.0006635326509959877,
+          "bound_mm": 0.334515202418128
+        },
+        "depth-table": {
+          "max_mm": 0.06599353452899691,
+          "rms_mm": 0.037550270491592215,
+          "edge_line_deviation_mm": 0.05175870309884286,
+          "concurrency_residual": 0.0006289584334176826
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.14366651158355723,
+          "rms_mm": 0.09288499680234288
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 7
+    },
+    {
+      "id": "D6-2-0",
+      "variants": {
+        "weak": {
+          "max_mm": 11.785113019775793,
+          "rms_mm": 9.7182531580755,
+          "edge_line_deviation_mm": 8.333333333333336,
+          "concurrency_residual": 0.0,
+          "bound_mm": 11.785113019775793
+        },
+        "linear": {
+          "max_mm": 2.946278254943944,
+          "rms_mm": 2.429563289518873,
+          "edge_line_deviation_mm": 2.083333333333332,
+          "concurrency_residual": 3.925231146709437e-17,
+          "bound_mm": 2.946278254943948
+        },
+        "quadratic": {
+          "max_mm": 0.7365695637359904,
+          "rms_mm": 0.6073908223797198,
+          "edge_line_deviation_mm": 0.5208333333333357,
+          "concurrency_residual": 7.85046229341888e-17,
+          "bound_mm": 0.736569563735987
+        },
+        "depth-table": {
+          "max_mm": 3.552713678800501e-15,
+          "rms_mm": 1.7763568394002505e-15,
+          "edge_line_deviation_mm": 3.552713678800501e-15,
+          "concurrency_residual": 7.359808400080196e-17
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.04714045207911054,
+          "rms_mm": 0.03333333333333677
+        }
+      },
+      "exact_divisions": 2,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 6
+    },
+    {
+      "id": "D6-2-1",
+      "variants": {
+        "weak": {
+          "max_mm": 23.68778400591982,
+          "rms_mm": 13.880441875771341,
+          "edge_line_deviation_mm": 18.33333333333333,
+          "concurrency_residual": 0.0,
+          "bound_mm": 23.687784005919823
+        },
+        "linear": {
+          "max_mm": 5.921946001479948,
+          "rms_mm": 3.470110468942832,
+          "edge_line_deviation_mm": 4.583333333333329,
+          "concurrency_residual": 6.833697596633658e-17,
+          "bound_mm": 5.921946001479956
+        },
+        "quadratic": {
+          "max_mm": 1.4804865003699854,
+          "rms_mm": 0.8675276172357074,
+          "edge_line_deviation_mm": 1.1458333333333286,
+          "concurrency_residual": 7.028946099394619e-17,
+          "bound_mm": 1.480486500369989
+        },
+        "depth-table": {
+          "max_mm": 1.4210854715202004e-14,
+          "rms_mm": 7.108895957933346e-15,
+          "edge_line_deviation_mm": 1.4210854715202004e-14,
+          "concurrency_residual": 8.23704621022807e-17
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.04714045207910049,
+          "rms_mm": 0.028867513459479646
+        }
+      },
+      "exact_divisions": 2,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 6
+    },
+    {
+      "id": "D6-4-0",
+      "variants": {
+        "weak": {
+          "max_mm": 2.525381361380528,
+          "rms_mm": 2.262252827577655,
+          "edge_line_deviation_mm": 1.7857142857142865,
+          "concurrency_residual": 0.0,
+          "bound_mm": 2.525381361380527
+        },
+        "linear": {
+          "max_mm": 0.31567267017256695,
+          "rms_mm": 0.28278160344720604,
+          "edge_line_deviation_mm": 0.2232142857142865,
+          "concurrency_residual": 3.925231146709441e-17,
+          "bound_mm": 0.3156726701725659
+        },
+        "quadratic": {
+          "max_mm": 0.039459083771571805,
+          "rms_mm": 0.035347700430901345,
+          "edge_line_deviation_mm": 0.027901785714286476,
+          "concurrency_residual": 0.0,
+          "bound_mm": 0.03945908377157074
+        },
+        "depth-table": {
+          "max_mm": 2.5121479338940403e-15,
+          "rms_mm": 1.5383701491068513e-15,
+          "edge_line_deviation_mm": 1.7763568394002505e-15,
+          "concurrency_residual": 7.72779882008421e-17
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.020203050891046653,
+          "rms_mm": 0.018098022620621525
+        }
+      },
+      "exact_divisions": 2,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 6
+    },
+    {
+      "id": "D6-4-1",
+      "variants": {
+        "weak": {
+          "max_mm": 7.643190913940249,
+          "rms_mm": 5.138850585136404,
+          "edge_line_deviation_mm": 6.071428571428569,
+          "concurrency_residual": 0.0,
+          "bound_mm": 7.643190913940249
+        },
+        "linear": {
+          "max_mm": 0.9553988642425314,
+          "rms_mm": 0.6423563231420485,
+          "edge_line_deviation_mm": 0.7589285714285695,
+          "concurrency_residual": 8.752045515063833e-17,
+          "bound_mm": 0.9553988642425312
+        },
+        "quadratic": {
+          "max_mm": 0.11942485803031662,
+          "rms_mm": 0.0802945403927561,
+          "edge_line_deviation_mm": 0.0948660714285694,
+          "concurrency_residual": 1.5570731806536383e-16,
+          "bound_mm": 0.1194248580303164
+        },
+        "depth-table": {
+          "max_mm": 7.105427357601002e-15,
+          "rms_mm": 3.9968028886505635e-15,
+          "edge_line_deviation_mm": 7.105427357601002e-15,
+          "concurrency_residual": 1.0819207428142135e-16
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.0555555555555543,
+          "rms_mm": 0.04234705260937836
+        }
+      },
+      "exact_divisions": 2,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 6
+    },
+    {
+      "id": "B01",
+      "variants": {
+        "weak": {
+          "max_mm": 11.802217354808587,
+          "rms_mm": 9.718230496951403,
+          "edge_line_deviation_mm": 8.347867869446207,
+          "concurrency_residual": 0.0,
+          "bound_mm": 11.822834075311386
+        },
+        "linear": {
+          "max_mm": 2.955699530934505,
+          "rms_mm": 2.4295678693135456,
+          "edge_line_deviation_mm": 2.090606231376724,
+          "concurrency_residual": 0.00021457364810928626,
+          "bound_mm": 2.960862698946714
+        },
+        "quadratic": {
+          "max_mm": 0.7402134238450567,
+          "rms_mm": 0.6073982289568722,
+          "edge_line_deviation_mm": 0.5235629603899227,
+          "concurrency_residual": 2.4064386598861965e-05,
+          "bound_mm": 0.7415064667380206
+        },
+        "depth-table": {
+          "max_mm": 0.005459543944420914,
+          "rms_mm": 0.0034307989729053007,
+          "edge_line_deviation_mm": 0.003861609230312303,
+          "concurrency_residual": 3.842851512685045e-06
+        },
+        "angle-5deg": {
+          "max_mm": 0.04344128462571337,
+          "rms_mm": 0.04291676284117161
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.07336380713658766,
+          "rms_mm": 0.05431172104760713
+        }
+      },
+      "exact_divisions": 4,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 7
+    },
+    {
+      "id": "B02",
+      "variants": {
+        "weak": {
+          "max_mm": 11.802217354808587,
+          "rms_mm": 9.718230496951403,
+          "edge_line_deviation_mm": 8.347867869446208,
+          "concurrency_residual": 0.0,
+          "bound_mm": 11.822834075311386
+        },
+        "linear": {
+          "max_mm": 2.955699530934505,
+          "rms_mm": 2.4295678693135456,
+          "edge_line_deviation_mm": 2.090606231376724,
+          "concurrency_residual": 0.00021457364810928626,
+          "bound_mm": 2.960862698946714
+        },
+        "quadratic": {
+          "max_mm": 0.7402134238450567,
+          "rms_mm": 0.6073982289568722,
+          "edge_line_deviation_mm": 0.5235629603899226,
+          "concurrency_residual": 2.406438659886195e-05,
+          "bound_mm": 0.7415064667380206
+        },
+        "depth-table": {
+          "max_mm": 0.005459543944420914,
+          "rms_mm": 0.0034307989729053007,
+          "edge_line_deviation_mm": 0.0038616092303122964,
+          "concurrency_residual": 3.842851512685045e-06
+        },
+        "angle-5deg": {
+          "max_mm": 0.04344128462570701,
+          "rms_mm": 0.04291676284116827
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.07336380713658766,
+          "rms_mm": 0.05431172104760713
+        }
+      },
+      "exact_divisions": 4,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 7
+    },
+    {
+      "id": "B03",
+      "variants": {
+        "weak": {
+          "max_mm": 11.785113019775793,
+          "rms_mm": 9.7182531580755,
+          "edge_line_deviation_mm": 8.333333333333336,
+          "concurrency_residual": 0.0,
+          "bound_mm": 11.785113019775793
+        },
+        "linear": {
+          "max_mm": 2.946278254943944,
+          "rms_mm": 2.429563289518873,
+          "edge_line_deviation_mm": 2.083333333333332,
+          "concurrency_residual": 3.925231146709437e-17,
+          "bound_mm": 2.946278254943948
+        },
+        "quadratic": {
+          "max_mm": 0.7365695637359904,
+          "rms_mm": 0.6073908223797198,
+          "edge_line_deviation_mm": 0.5208333333333357,
+          "concurrency_residual": 7.85046229341888e-17,
+          "bound_mm": 0.736569563735987
+        },
+        "depth-table": {
+          "max_mm": 3.552713678800501e-15,
+          "rms_mm": 1.7763568394002505e-15,
+          "edge_line_deviation_mm": 3.552713678800501e-15,
+          "concurrency_residual": 7.359808400080196e-17
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.04714045207911054,
+          "rms_mm": 0.03333333333333677
+        }
+      },
+      "exact_divisions": 2,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 6
+    },
+    {
+      "id": "B04",
+      "variants": {
+        "weak": {
+          "max_mm": 11.189526555818272,
+          "rms_mm": 7.054093072506829,
+          "edge_line_deviation_mm": 8.894479202145572,
+          "concurrency_residual": 3.59835941967456e-17,
+          "bound_mm": 29.64756554968238
+        },
+        "linear": {
+          "max_mm": 4.157813817894431,
+          "rms_mm": 2.029508951345649,
+          "edge_line_deviation_mm": 3.485349110246537,
+          "concurrency_residual": 0.048847201594991195,
+          "bound_mm": 12.049246001549033
+        },
+        "quadratic": {
+          "max_mm": 1.6898022010102776,
+          "rms_mm": 0.7056673487573607,
+          "edge_line_deviation_mm": 1.4165017616797353,
+          "concurrency_residual": 0.012040409118255314,
+          "bound_mm": 4.897006769832432
+        },
+        "depth-table": {
+          "max_mm": 0.26692078399908664,
+          "rms_mm": 0.13697306261327524,
+          "edge_line_deviation_mm": 0.2084683950520074,
+          "concurrency_residual": 0.002107983480378715
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.21663317289875378,
+          "rms_mm": 0.11415716422048962
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 9
+    },
+    {
+      "id": "B05",
+      "variants": {
+        "weak": {
+          "max_mm": 5.827665024734536,
+          "rms_mm": 3.1498030024076455,
+          "edge_line_deviation_mm": 4.5819200247282135,
+          "concurrency_residual": 2.309332959369665e-17,
+          "bound_mm": 15.2270912658617
+        },
+        "linear": {
+          "max_mm": 1.708296378700604,
+          "rms_mm": 0.8895972002186164,
+          "edge_line_deviation_mm": 1.687354464718798,
+          "concurrency_residual": 0.029788213707518586,
+          "bound_mm": 6.360912541874183
+        },
+        "quadratic": {
+          "max_mm": 0.7136178322432869,
+          "rms_mm": 0.30977002646302876,
+          "edge_line_deviation_mm": 0.7048696293874747,
+          "concurrency_residual": 0.006951390263455082,
+          "bound_mm": 2.6571856475362483
+        },
+        "depth-table": {
+          "max_mm": 0.11013227759813127,
+          "rms_mm": 0.06645908381093159,
+          "edge_line_deviation_mm": 0.10878217189467315,
+          "concurrency_residual": 0.0008855126841864139
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.08944955981299785,
+          "rms_mm": 0.04578841730527937
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 9
+    },
+    {
+      "id": "B06",
+      "variants": {
+        "weak": {
+          "max_mm": 0.09001748504478257,
+          "rms_mm": 0.05620820443751534,
+          "edge_line_deviation_mm": 0.08424980784191663,
+          "concurrency_residual": 3.6027088049543395e-18,
+          "bound_mm": 0.18505395449466208
+        },
+        "linear": {
+          "max_mm": 0.002220969689616048,
+          "rms_mm": 0.0014892845582324921,
+          "edge_line_deviation_mm": 0.002078665822309802,
+          "concurrency_residual": 6.507482292741212e-05,
+          "bound_mm": 0.007730380014911527
+        },
+        "quadratic": {
+          "max_mm": 8.672556008804122e-05,
+          "rms_mm": 4.954296025500279e-05,
+          "edge_line_deviation_mm": 8.233645677248222e-05,
+          "concurrency_residual": 1.1411793221191872e-06,
+          "bound_mm": 0.0003229262262356425
+        },
+        "depth-table": {
+          "max_mm": 0.00014641639857252358,
+          "rms_mm": 0.0001037026307460876,
+          "edge_line_deviation_mm": 0.00012089695557661682,
+          "concurrency_residual": 1.8087925681048488e-06
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.04847285024942982,
+          "rms_mm": 0.0338748265690214
+        }
+      },
+      "exact_divisions": 6,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 9
+    },
+    {
+      "id": "B07",
+      "variants": {
+        "weak": {
+          "max_mm": 203.62868777633432,
+          "rms_mm": 79.62258410826492,
+          "edge_line_deviation_mm": 98.87011518385309,
+          "concurrency_residual": 1.4812828193595663e-16,
+          "bound_mm": 758.2198792384581
+        },
+        "linear": {
+          "max_mm": 181.86123250308057,
+          "rms_mm": 66.53829270108004,
+          "edge_line_deviation_mm": 88.30111906828664,
+          "concurrency_residual": 0.32585510993337785,
+          "bound_mm": 677.167855140834
+        },
+        "quadratic": {
+          "max_mm": 162.42066993952966,
+          "rms_mm": 58.17843068931099,
+          "edge_line_deviation_mm": 78.86192520573813,
+          "concurrency_residual": 0.20114969402220004,
+          "bound_mm": 604.7801127248248
+        },
+        "depth-table": {
+          "rejected": "Table requires positive lower knot"
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 5.401547744978984,
+          "rms_mm": 1.960075197856576
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": null
+    },
+    {
+      "id": "B08",
+      "variants": {
+        "weak": {
+          "max_mm": 2253.0481441532215,
+          "rms_mm": 797.9002462249838,
+          "edge_line_deviation_mm": 106.74503358192081,
+          "concurrency_residual": 1.1102230246251565e-16,
+          "bound_mm": 8389.31837371908
+        },
+        "linear": {
+          "max_mm": 2226.399772316491,
+          "rms_mm": 787.5736762915001,
+          "edge_line_deviation_mm": 105.48248561817795,
+          "concurrency_residual": 0.39287594186640057,
+          "bound_mm": 8290.092054006502
+        },
+        "quadratic": {
+          "max_mm": 2200.066589359941,
+          "rms_mm": 777.9937869508458,
+          "edge_line_deviation_mm": 104.2348706897929,
+          "concurrency_residual": 0.2663535430406542,
+          "bound_mm": 8192.03935318465
+        },
+        "depth-table": {
+          "rejected": "Table requires positive lower knot"
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 314.91547744978425,
+          "rms_mm": 111.34147243729198
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": null
+    },
+    {
+      "id": "B09",
+      "status": "rejected-before-approximation"
+    },
+    {
+      "id": "B10",
+      "status": "rejected-before-approximation"
+    },
+    {
+      "id": "B11",
+      "variants": {
+        "weak": {
+          "max_mm": 179.54528971983166,
+          "rms_mm": 78.21006189952824,
+          "edge_line_deviation_mm": 94.66526890077108,
+          "concurrency_residual": 2.7755575615628914e-17,
+          "bound_mm": 205.41669154553804
+        },
+        "linear": {
+          "max_mm": 75.00262954184645,
+          "rms_mm": 29.909792691293692,
+          "edge_line_deviation_mm": 39.54514264853792,
+          "concurrency_residual": 0.09248377304573117,
+          "bound_mm": 85.81005963310423
+        },
+        "quadratic": {
+          "max_mm": 31.331339557665355,
+          "rms_mm": 12.15493342470713,
+          "edge_line_deviation_mm": 16.519451381186244,
+          "concurrency_residual": 0.055382637521275216,
+          "bound_mm": 35.845998097017095
+        },
+        "depth-table": {
+          "max_mm": 4.8353497205066684,
+          "rms_mm": 1.8299548729891184,
+          "edge_line_deviation_mm": 2.5494385413023335,
+          "concurrency_residual": 0.0024733160949821226
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.6988983963641264,
+          "rms_mm": 0.3550316363607384
+        }
+      },
+      "exact_divisions": 8,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 9
+    },
+    {
+      "id": "B12",
+      "variants": {
+        "weak": {
+          "max_mm": 0.36941495126915225,
+          "rms_mm": 0.2255461871539229,
+          "edge_line_deviation_mm": 0.3415172587572204,
+          "concurrency_residual": 1.3877787807814457e-17,
+          "bound_mm": 0.7739562613029226
+        },
+        "linear": {
+          "max_mm": 0.018228889848484364,
+          "rms_mm": 0.011973909614231473,
+          "edge_line_deviation_mm": 0.016852269974059267,
+          "concurrency_residual": 0.0005189455566434222,
+          "bound_mm": 0.06466196338392041
+        },
+        "quadratic": {
+          "max_mm": 0.001450858814199485,
+          "rms_mm": 0.0007977493711851066,
+          "edge_line_deviation_mm": 0.0013823769211675733,
+          "concurrency_residual": 1.8851294300976235e-05,
+          "bound_mm": 0.005402333074513334
+        },
+        "depth-table": {
+          "max_mm": 0.0011966686187202295,
+          "rms_mm": 0.000832918305509123,
+          "edge_line_deviation_mm": 0.0009793321471361647,
+          "concurrency_residual": 1.4602846903605249e-05
+        },
+        "angle-5deg": {
+          "max_mm": 0.0,
+          "rms_mm": 0.0
+        },
+        "circle-and-rounding": {
+          "max_mm": 0.05569121069582424,
+          "rms_mm": 0.031071352466378568
+        }
+      },
+      "exact_divisions": 6,
+      "baseline_divisions": 8,
+      "table_knot_divisions": 9
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "views_checked": 12,
+  "painter_samples": 9785,
+  "result": "pass",
+  "scope": "sampled occlusion, all bounds and labels, split and prompt separation"
+}

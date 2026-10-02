@@ -6,13 +6,13 @@ type: "article"
 source: "https://doi.org/10.1145/3721238.3730734"
 author: "Fengqi Liu; Longji Huang; Zhengyu Huang; Zeyu Wang"
 published: 2025
-accessed: "2026-10-01"
+accessed: "2026-10-02"
 evidence_kind: "controlled-study"
 domain: "drawing"
 verification: "indexed-excerpts"
 related: []
 created: "2026-10-01"
-updated: "2026-10-01"
+updated: "2026-10-02"
 ---
 
 # 視線と描画の関係を使った観察支援
@@ -44,3 +44,5 @@ Learning to Draw Is Learning to See: Analyzing Eye Tracking Patterns for Assiste
 グリッド・注視誘導が役立つかの候補。検証するなら補助なし・未見題材・後日テストを別に設定する。
 
 分類の意味は [資料の評価方針](../../docs/evidence-policy.md)、横断索引は [資料一覧](../README.md)を参照。
+
+2026-10-02、著者プロジェクトのPaperリンクは取得エラー。別経路としてDataリンク先の[著者GitHub README](https://github.com/CISLab-HKUST/Learning-to-Draw-Is-Learning-to-See)を確認した。データ構成・解析プログラムの説明はあるが、Paperは同じ著者サイトへ戻る。データ再解析・ソフト実行は行っていない。公開概要とREADMEを読んだことを、論文の方法・結果全体の取得に置き換えず、確認区分を維持する。

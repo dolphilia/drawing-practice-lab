@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-02",
+  "scope": "Source inspection only; files not redistributed",
+  "sources": [
+    {
+      "url": "https://www.gutenberg.org/files/20165/20165-h/images/fig85.png",
+      "sha256": "2a36424553459dea1e90e686fbf163da6872e1c7104070727a15371d5c7bdd5c",
+      "bytes": 2311,
+      "visually_inspected": "figure 85"
+    },
+    {
+      "url": "https://www.gutenberg.org/files/20165/20165-h/images/fig116.png",
+      "sha256": "b71254ceed2e99bef4a1c4082448e7791742f44c23cef44da18a68f6613bdef4",
+      "bytes": 5740,
+      "visually_inspected": "figure 116"
+    },
+    {
+      "url": "https://www.gutenberg.org/files/20165/20165-h/images/fig124.png",
+      "sha256": "1166efd1358b21662fe90897005d619c6c63be957e5d5ee61af8dd3f96f64ceb",
+      "bytes": 4979,
+      "visually_inspected": "figure 124"
+    },
+    {
+      "url": "https://www.gutenberg.org/files/60816/60816-h/images/illus-020.png",
+      "sha256": "2ff722bcab1434e8f934cb92bb4d9702c5a8b3c64890f8ddb0702f691186f652",
+      "bytes": 13484,
+      "visually_inspected": "figure 4"
+    },
+    {
+      "url": "https://www.gutenberg.org/files/60816/60816-h/images/illus-021.png",
+      "sha256": "29f2b0bc8f5832a8d01a0d8f20210e26ac8e5dece5aa0ac2482bbbc9da4c771f",
+      "bytes": 10979,
+      "visually_inspected": "figure 5"
+    },
+    {
+      "url": "https://gkfweb.math.illinois.edu/public403/perspective/perspix/perspframe.png",
+      "sha256": "f462c92e49b679f281db2592b77366c3b072ae09fba834296e1a0276e1818e68",
+      "bytes": 34038,
+      "visually_inspected": "perspective frame"
+    },
+    {
+      "url": "https://gkfweb.math.illinois.edu/public403/perspective/perspix/cube3point.png",
+      "sha256": "9333cc3b296ed39867d54b3da45fe053a36faa6ac5b92a963e1b54904b28a50d",
+      "bytes": 65311,
+      "visually_inspected": "three-point cube"
+    },
+    {
+      "url": "https://www.mgu.ac.jp/miyagaku_cms/wp-content/uploads/2021/12/hatsurin15_07.pdf",
+      "sha256": "c09fed59c06f3bea9aa1424e3f6d17bae0a2df1e4a2958bb0b033a106cc512b3",
+      "bytes": 452816,
+      "visually_inspected": "printed pp.41\u201345 / figures 1\u201312"
+    }
+  ]
+}

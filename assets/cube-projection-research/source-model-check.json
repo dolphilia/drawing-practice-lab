@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-02",
+  "kind": "original conditional geometric reconstruction",
+  "source_figure": "Ishikawa 2015 fig 4 / section 2(1) steps 4\u20137",
+  "side_input": {
+    "O": [
+      0,
+      0
+    ],
+    "P": [
+      100.0,
+      0.0
+    ],
+    "front_top": [
+      100.0,
+      -40.0
+    ],
+    "front_bottom": [
+      100.0,
+      -100.0
+    ]
+  },
+  "Q": [
+    70.71067811865474,
+    -70.71067811865474
+  ],
+  "R": [
+    85.78643762690494,
+    -34.314575050761974
+  ],
+  "plane_distance": 92.38795325112866,
+  "source_rectangle_width": 60,
+  "source_rectangle_height": 39.39485808172521,
+  "same_plane_central_projection_width_top": 51.47186257614297,
+  "same_plane_central_projection_width_bottom": 42.426406871192846,
+  "conclusion": "The equal-width rectangle construction is not the central projection onto the plane represented by PQ in this example. Do not use it as the ground-truth model for this project.",
+  "scope": "Does not assess artistic usefulness, author intention beyond stated plane, or empirical learning outcomes."
+}

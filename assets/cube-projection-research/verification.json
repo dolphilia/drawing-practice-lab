@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-02",
+  "scope": "Plan stages 1-6; synthetic geometry and document review only; no human drawing, timings or learning outcomes",
+  "command": "PYTHONDONTWRITEBYTECODE=1 python3 assets/cube-projection-research/run_all.py",
+  "exit_code": 0,
+  "python": "3.14.4",
+  "renderer": "rsvg-convert version 2.58.4",
+  "unit_tests": {
+    "count": 13,
+    "result": "pass",
+    "output": ".............\n----------------------------------------------------------------------\nRan 13 tests in 0.124s\n\nOK"
+  },
+  "reproducibility": {
+    "status": "pass",
+    "byte_identical_generated_files": 22,
+    "comparison": "hashes before and after an immediate full rebuild"
+  },
+  "local_links": {
+    "documents": 24,
+    "links_checked": 358,
+    "missing": [],
+    "note": "verification.json self-reference created by this receipt"
+  },
+  "visual_review": {
+    "status": "reviewed",
+    "files": [
+      "assets/cube-projection-research/D1-2-1.png",
+      "assets/cube-projection-research/D2-2-1.png",
+      "assets/cube-projection-research/D3-2-0.png",
+      "assets/cube-projection-research/measuring-point.png",
+      "assets/cube-projection-research/ray-charts.png"
+    ],
+    "checks": [
+      "vertex labels legible",
+      "ray intersection labels separated",
+      "measuring construction lines reach Q",
+      "captions do not overlap diagrams"
+    ],
+    "reviewer": "assistant image inspection; not human usability testing"
+  },
+  "evaluation": {
+    "finite_cases": 34,
+    "rejected_cases": 2,
+    "max_reference_disagreement_mm": 2.729902249098959e-11,
+    "sensitivity_trials": 37162,
+    "design_pass_counts": {
+      "weak": {
+        "0.5": 0,
+        "1": 0,
+        "2": 0
+      },
+      "linear": {
+        "0.5": 6,
+        "1": 8,
+        "2": 12
+      },
+      "quadratic": {
+        "0.5": 12,
+        "1": 14,
+        "2": 20
+      },
+      "depth-table": {
+        "0.5": 20,
+        "1": 24,
+        "2": 24
+      },
+      "circle-and-rounding": {
+        "0.5": 24,
+        "1": 24,
+        "2": 24
+      }
+    }
+  },
+  "artifact_sha256": {
+    "README.md": "a946776f6e16f8384c82abc13b1a3ee42a8ef6506ad96c0b7520d35924745066",
+    "assets/README.md": "0cf702454fdb6523477af705ecb9cfec7f7f7cd762c2e5e674cef1db2c14e090",
+    "assets/cube-projection-research/D1-2-1.png": "30e88207e9d7f15a049190b151e293e8068244af971b58cb4a3831e1856b389d",
+    "assets/cube-projection-research/D1-2-1.svg": "87fd95dbe99dbb5481f32fa787da1ed8d207b1f038c195cd3bea2ef37931ed50",
+    "assets/cube-projection-research/D2-2-1.png": "aa2336692a0a3c56f76a2c9c6cf3f469f97e655c2caab93729906ba4daf6fca7",
+    "assets/cube-projection-research/D2-2-1.svg": "4b98cc25d809c2a36605af12c57a0cf1545d2c85d165cbdce1f58e4cabef7b02",
+    "assets/cube-projection-research/D3-2-0.png": "f1b079dd878093a1f0c2414c276575c3f43d9d39b588a79b3c77dd18486d00a9",
+    "assets/cube-projection-research/D3-2-0.svg": "e3d410f0e964ac1f53218ad3bfbf72a7f61ffb6aaaf5b802dd5002d05105eb1b",
+    "assets/cube-projection-research/README.md": "7d87d9826376924ab65806d68803dbea95a99f83d6c6bafbb7321d16d4fe5aa9",
+    "assets/cube-projection-research/blank-worksheet.md": "3a03ed0642f1a0c75884501507d78d03e8d7f1fb06ee29ebfc2a2da84242f5d7",
+    "assets/cube-projection-research/cases.json": "7be220b41b0e6aba90e014c52820129fb18256fc7bc15515be69755a05a9fed3",
+    "assets/cube-projection-research/comparison-results.json": "995623cd7bd8eae8c36aeccc1ab84c8392c314c9e63abbf828b824e6e6d817cd",
+    "assets/cube-projection-research/evaluate.py": "3f6fe5e660a52bf2b3cbe3b1b96a6053eed38b959eac9b5b38cbaf2bf9bc1215",
+    "assets/cube-projection-research/evaluation-summary.json": "93f161caa0a8640c940d4742c14af74876ae5a2bc3961a1f308e03cc4c09e8fa",
+    "assets/cube-projection-research/geometry.py": "9fef4358b4090779729a6447314f73d1673f1edf6825bd689aafa7260c274c3b",
+    "assets/cube-projection-research/make_cases.py": "725c786353bda73fdd994de92d69989e65f64d77653c25adfb15ad875911bdc7",
+    "assets/cube-projection-research/make_materials.py": "ff835227a6a413e70311f7d5c51370222bb55a44300c2a4a6b2cd957640cf4ab",
+    "assets/cube-projection-research/measuring-point.png": "39d38c7515a23b191e58befe98693813749a31e771877995fe7ca058fb8f7cd5",
+    "assets/cube-projection-research/measuring-point.svg": "c3657e0cbced9b10ea8691e09daccf8e44913993569334bcff5541e80f09914d",
+    "assets/cube-projection-research/probe-results.json": "202cef6fc37f80ec67513362367e7ad078346cbb815854ee905cf387a0582408",
+    "assets/cube-projection-research/probe.py": "0dcb5fbce2228fe6b6cb0a2a4acb598eeb993ff1d90f1bacd9205d2bfdb83609",
+    "assets/cube-projection-research/ray-charts.png": "3a831c819b900ae96f582543c83c1a7e9577fa7c7681e6f982d299675f2f6b2b",
+    "assets/cube-projection-research/ray-charts.svg": "6ec8802fa0714f793f5cc743a81c76807410894ad6c188174d073d71239a1064",
+    "assets/cube-projection-research/reference-results.json": "9fd13300712c837c785a57d50cfda56308c1ffb31666f2c109e97547d78dbb02",
+    "assets/cube-projection-research/run_all.py": "a1efee3e8665095d8ea4fd417d7a43c738cce9e2eebbaeda7eaf528bddf0d447",
+    "assets/cube-projection-research/sensitivity-results.json": "ee1fcbac4d84788fa26260f949be922051e5af6a707625b4216c20e5e5da5496",
+    "assets/cube-projection-research/source-inspection.json": "027a0b1396217f5fc92a0537c6328f6866fbe8c602f2a2b4448132f018776c54",
+    "assets/cube-projection-research/source-model-check.json": "6472e077e2b82beffc0e7d3e51b1084064a6bdc13f4363a643d6c958a4cb5b2c",
+    "assets/cube-projection-research/source_model_check.py": "1074abc1743368ee2386c6ab8c80e5b8e4fe5a6755ac8a1f231d6b0ca41387a8",
+    "assets/cube-projection-research/supplement-results.json": "9422c43532b614b6653f859b5ab2e91b157277f9a24d94a218e3415a7c7c7759",
+    "assets/cube-projection-research/supplement.py": "7c5c935ee0107b31ba48e8d9571ecdae80921f5815f25f9a8cc16b7b1085918d",
+    "assets/cube-projection-research/test_geometry.py": "929b2d9f7744b3a763d8ad6b3a3f56187e27c93aa72adc7d902cca1f810f3c6b",
+    "assets/cube-projection-research/worked-examples.md": "fc5d7b158748214d9dd6b59b3d13ccaeff8b291caf83df89e9875c35f7d138d1",
+    "assets/cube-projection-research/write_results_docs.py": "00babed4e323fad6fe718e4307171d7adec15bf6288f17f98f397a8255bc980d",
+    "docs/cube-construction-manual.md": "b75b343e56249061f689079681c1261a64a386cd28b581d4d4fbe084466e290a",
+    "docs/cube-construction-research-plan.md": "7b715b2106f8b604122a55fc6c94ceff75a935da60886e3a88df16862356e91d",
+    "exercises/construction/cube-manual-projection.md": "56e12f03d0301a21cf1a3bda3d0df4f72b2a3f4cb74fba17e961e3a1f75cfb69",
+    "methods/drafts/cube-depth-scale.md": "35e18eb42b6902b16597b3d5062da7661d623c1ecf62d444d7f84a82b62b57db",
+    "methods/drafts/cube-ray-construction.md": "a2932b89a9de916c1d27ce2a95c3d9e57f5c1781bbf6cc0fe274e34cb4de1347",
+    "references/README.md": "3352b57c961a6efd9044533b34142806f6a6ff8c48ae76604d227bf8da98a977",
+    "references/articles/illinois-recipe-for-cube.md": "ee449411974e2ef242bbb30edd8ac8c29016f8dca8ea9cbe7dd8a4cb6715d575",
+    "references/articles/ishikawa-2015-cube-perspective.md": "c76ba03ac1784cd06ecf48bc789a1f1c694508c8539843b202a71afbd9f326cc",
+    "references/books/ruskin-elements-perspective-point-construction.md": "5bad05c38a265adfd4191ebd2ce17bf15ddcaa873770c956afaf024203b7c953",
+    "references/books/storey-1910-perspective-measuring-points.md": "673e9d02adeff6cbbf5c95b0aecc10c41928ab9d07d742198e9bf8348ead68af",
+    "research/README.md": "20047bc15c9df9ff44b44db72ec547e422207aada430d088b7e08de0ffe752dd",
+    "research/comparisons/cube-construction-accuracy-and-effort.md": "0e28095e060b68b17016e638fc3957a896bb788ca27a7720b9717966f7c8d3af",
+    "research/comparisons/cube-construction-methods.md": "2b6749ea3be2858736869563b2068126fcd15b4baaace0622be3554f4f3aec4c",
+    "research/topics/2026-10-02_collection-cube-construction.md": "e5ec4ec49f1086ff6edb03df5fef51a3d0afafda7621c57da8c014842efd186e",
+    "research/topics/2026-10-02_cube-construction-execution.md": "eca03039ba464155c5b8bf98defcb2a873afe1c9740ccec91fb9a459ba124c50",
+    "research/topics/cube-construction-completion-summary.md": "b81506b118cbbb9ce55f013f4eac9c72ad3fd566842befe92da9e5d2b30fe5d6",
+    "research/topics/cube-construction-feasibility.md": "b02019dffe49847128b5af11208a2ccd5e22244f80876fce76508818df3e3209",
+    "research/topics/cube-construction-sensitivity.md": "a034daf55670096ebfaa1942a19a925f9096e98a9822767529910814d8e2399d",
+    "research/topics/cube-projection-input-spec.md": "f0b48d0c189292b3fb04aa17cd0dd680d336772ec63ee178dc47a3d1bcfe3c8c"
+  },
+  "limitations": [
+    "Random perturbations are hypothetical, not empirical error distributions.",
+    "Numerical cases are implementation checks, not exhaustive proofs.",
+    "Manual usability, physical precision, timing, retention and transfer are untested."
+  ]
+}

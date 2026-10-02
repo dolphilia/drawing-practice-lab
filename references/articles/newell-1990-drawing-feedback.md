@@ -6,13 +6,13 @@ type: article
 source: "https://doi.org/10.1080/00222895.1990.10735527"
 author: "K. M. Newell; M. J. Carlton; A. Antoniou"
 published: 1990
-accessed: 2026-10-01
+accessed: 2026-10-02
 evidence_kind: controlled-study
 domain: drawing
 verification: abstract
 related: []
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # 描画課題の目標情報とフィードバック
@@ -45,3 +45,5 @@ Newell, K. M., Carlton, M. J., & Antoniou, A. (1990). *The interaction of criter
 - [評価・検証ガイド](../../docs/evaluation.md)
 
 分類の意味は [資料の評価方針](../../docs/evidence-policy.md)、横断索引は [資料一覧](../README.md)を参照。
+
+2026-10-02の追加探索では、論文名とPDF・著者名・大学を組み合わせて正規公開版を探したが、方法と結果を取得できる新しい著者版・機関版は確定できなかった。要旨の確認を維持し、人数・保持・必要量の根拠には用いない。公開著者稿が見つかった場合に再開する。

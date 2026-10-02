@@ -1,0 +1,33 @@
+{
+  "finite_cases": 34,
+  "rejected_cases": 2,
+  "max_reference_disagreement_mm": 2.729902249098959e-11,
+  "sensitivity_trials": 37162,
+  "design_pass_counts": {
+    "weak": {
+      "0.5": 0,
+      "1": 0,
+      "2": 0
+    },
+    "linear": {
+      "0.5": 6,
+      "1": 8,
+      "2": 12
+    },
+    "quadratic": {
+      "0.5": 12,
+      "1": 14,
+      "2": 20
+    },
+    "depth-table": {
+      "0.5": 20,
+      "1": 24,
+      "2": 24
+    },
+    "circle-and-rounding": {
+      "0.5": 24,
+      "1": 24,
+      "2": 24
+    }
+  }
+}

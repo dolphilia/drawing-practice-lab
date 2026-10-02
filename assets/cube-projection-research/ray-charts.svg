@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="35" y="40" font-family="sans-serif" font-size="24" fill="#163c50">視線の交点を読む　P7の横位置と縦位置</text>
+<text x="60.000" y="95.000" font-family="sans-serif" font-size="20" fill="#203d4d">横位置 u を求める</text>
+<line x1="60.00000" y1="370.00000" x2="468.00000" y2="370.00000" stroke="#90a6b0" stroke-width="1" stroke-dasharray=""/>
+<line x1="180.00000" y1="514.00000" x2="180.00000" y2="178.00000" stroke="#d17c41" stroke-width="2" stroke-dasharray=""/>
+<line x1="60.00000" y1="370.00000" x2="191.68727" y2="319.08831" stroke="#277b94" stroke-width="3" stroke-dasharray=""/>
+<circle cx="60.0" cy="370.0" r="4" fill="#18475b"/>
+<text x="68.000" y="360.000" font-family="sans-serif" font-size="16" fill="#203d4d">O</text>
+<circle cx="191.68727484027593" cy="319.08831175456856" r="4" fill="#18475b"/>
+<text x="199.687" y="309.088" font-family="sans-serif" font-size="16" fill="#203d4d">P7</text>
+<circle cx="180.0" cy="323.606735374683" r="4" fill="#18475b"/>
+<text x="155.000" y="345.607" font-family="sans-serif" font-size="16" fill="#203d4d">Q</text>
+<text x="60.000" y="555.000" font-family="sans-serif" font-size="16" fill="#203d4d">補助図 s=0.5   読む長さ=19.331 mm</text>
+<text x="60.000" y="583.000" font-family="sans-serif" font-size="16" fill="#203d4d">元の紙の値=38.661 mm</text>
+<text x="540.000" y="95.000" font-family="sans-serif" font-size="20" fill="#203d4d">縦位置 v を求める</text>
+<line x1="540.00000" y1="370.00000" x2="948.00000" y2="370.00000" stroke="#90a6b0" stroke-width="1" stroke-dasharray=""/>
+<line x1="660.00000" y1="514.00000" x2="660.00000" y2="178.00000" stroke="#d17c41" stroke-width="2" stroke-dasharray=""/>
+<line x1="540.00000" y1="370.00000" x2="671.68727" y2="336.17107" stroke="#277b94" stroke-width="3" stroke-dasharray=""/>
+<circle cx="540.0" cy="370.0" r="4" fill="#18475b"/>
+<text x="548.000" y="360.000" font-family="sans-serif" font-size="16" fill="#203d4d">O</text>
+<circle cx="671.6872748402759" cy="336.1710656517073" r="4" fill="#18475b"/>
+<text x="679.687" y="326.171" font-family="sans-serif" font-size="16" fill="#203d4d">P7</text>
+<circle cx="660.0" cy="339.1733910757978" r="4" fill="#18475b"/>
+<text x="635.000" y="361.173" font-family="sans-serif" font-size="16" fill="#203d4d">Q</text>
+<text x="540.000" y="555.000" font-family="sans-serif" font-size="16" fill="#203d4d">補助図 s=0.5   読む長さ=12.844 mm</text>
+<text x="540.000" y="583.000" font-family="sans-serif" font-size="16" fill="#203d4d">元の紙の値=25.689 mm</text>
+<text x="40.000" y="627.000" font-family="sans-serif" font-size="16" fill="#203d4d">補助図では Z・X・Y・f をすべて同じ割合で縮める。交点の読みを s で割って戻す。</text>
+</svg>
