@@ -1,0 +1,47 @@
+{
+  "title": "新メソッド候補を、目的と作図から理解する",
+  "overflows": [],
+  "missing": [],
+  "images": [
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/new-method-candidates/m1-steps.svg",
+      "complete": true,
+      "width": 1000
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/new-method-candidates/m1-feedback.svg",
+      "complete": true,
+      "width": 1000
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/new-method-candidates/m2-conditions.svg",
+      "complete": true,
+      "width": 1000
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/new-method-candidates/m2-recall.svg",
+      "complete": true,
+      "width": 1000
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/new-method-candidates/m2-view-change.svg",
+      "complete": true,
+      "width": 1000
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/new-method-candidates/m3-line-roles.svg",
+      "complete": true,
+      "width": 1000
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/new-method-candidates/m3-connection.svg",
+      "complete": true,
+      "width": 1000
+    },
+    {
+      "source": "file:///Users/dolphilia/github/drawing-practice-lab/assets/new-method-candidates/m4-transfer.svg",
+      "complete": true,
+      "width": 1000
+    }
+  ]
+}

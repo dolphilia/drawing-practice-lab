@@ -15,9 +15,13 @@
 
 ## 調査資料を読む
 
+[顔・頭部の三次元構築法と無料3Dモデル](research/topics/head-construction-and-free-models.md)（2026-10-05）：Loomis以外の構築法と無料候補を比較し、cgmonkeyの平面頭部を選定。[箱・比率・分割による再現案](methods/drafts/box-to-planar-head.md)と[自作模式模型・OBJ](assets/head-construction/README.md)を整備。元模型の寸法測定と一致率、学習効果は未検証。
+
 [立方体の透視作図の研究計画](docs/cube-construction-research-plan.md)：第1〜6段階を完了。[手順書](docs/cube-construction-manual.md)（[改訂PDF・15頁](output/pdf/cube-construction-manual.pdf)）に指定道具による半辺・割算の方法と視線作図を整備し、[総括](research/topics/cube-construction-completion-summary.md)に原典図の照合、36条件、近似の採否、工程の誤差をまとめた。人の実作図・使いやすさ・時間・上達は未確認。
 
 [総合報告書PDF：描く力を育てる練習の設計](output/pdf/drawing-practice-research-review.pdf)では、有望な練習法、新メソッド4候補、人による確認8項目と作業量、出典67件をまとめています。[編集原稿・再生成方法](reports/drawing-research-review/README.md)も保存しています。
+
+[新メソッド候補の図解別冊（PDF・11頁）](output/pdf/new-method-candidates-explained.pdf)：M1〜M4だけに絞り、目指す変化・描く手順・結果の読み方を8点の図で説明。[原稿と再生成方法](reports/new-method-candidates/README.md)。図は説明用で、効果検証の結果ではありません。
 
 - [資料収集・調査計画](docs/research-plan.md)：次に調べる問い、優先順位、検索・精読の手順と完了条件
 - [人体の単純化と記憶描画の追加調査計画](docs/research-autonomous-followup-plan.md)：人の実描画・採点・資料提供を待たずに進める原典確認、図解比較、根拠整理、課題仕様の作成

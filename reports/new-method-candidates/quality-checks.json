@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-03",
+  "pdf": "output/pdf/new-method-candidates-explained.pdf",
+  "pdf_sha256": "6564abc804573bc53eafa69f6b1ebdd3880f8624bdddcf21b0ba4510b85839ab",
+  "pages": 11,
+  "format": "A4",
+  "figures": 8,
+  "page_text_lengths": [
+    718,
+    834,
+    870,
+    727,
+    777,
+    898,
+    791,
+    816,
+    811,
+    748,
+    837
+  ],
+  "checks": [
+    "local links exist",
+    "all 8 images loaded",
+    "no browser horizontal overflow",
+    "worked M1 arithmetic correct",
+    "two-box parameters match existing model",
+    "PDF has outlines",
+    "all character bounds within pages",
+    "no replacement characters",
+    "no near-empty pages"
+  ],
+  "input_sha256": {
+    "reports/new-method-candidates/manuscript.md": "eb7e219b9659690f615de18b0bded1940c1a8ea5990b47f5d5b97cff3d614425",
+    "reports/new-method-candidates/build.py": "5649d0ebd3a2bfcf0d54b3cdd8496a43f6a42f33e75f3d0d39613ceb6a9a6c1c",
+    "reports/new-method-candidates/print.css": "2e82fabc61d1ec84fc43337f9fb7b64d747f939e68361b891366812fa73fec7a",
+    "reports/new-method-candidates/print-pdf.mjs": "8f26d05092595fa87ae8d8e426523a3670066db3f23a40b15fdd5197ff30f6b0",
+    "assets/new-method-candidates/make_figures.py": "2640f6570e6f5c492d0fdda0cac0507f2e5ecee1ce67498cb4ecdcac790cbf2a",
+    "assets/construction-geometry/models.json": "bec540fd65df871acf8c789173a7fb07882a74fd7d216215406c2ff67828ff47",
+    "assets/construction-geometry/generate.py": "9856721a058167e75470449d83cb5a21a2de159e13b9f0c309264bc9409f112f",
+    "assets/new-method-candidates/m1-feedback.svg": "69f1a5437855d99ab337738c2bff3bd8f1c4e7d5547ec6311396f84a6abb34df",
+    "assets/new-method-candidates/m1-steps.svg": "176a919d609f776d67afa09f3ab26eccad703aa400d2ff45dfff689b645b3447",
+    "assets/new-method-candidates/m2-conditions.svg": "8f7465159e2acf92a823e0bd4c7965f00ef7f06822d9aa6b21b8b24a50047d0b",
+    "assets/new-method-candidates/m2-recall.svg": "638444b223db820df2f28869cabb5276bc6b727682b36e919a4f17119d6f124f",
+    "assets/new-method-candidates/m2-view-change.svg": "0b24ac7a68e37dcae8172b8bbd59ff636169fceddf888227bbd9319c74b35fca",
+    "assets/new-method-candidates/m3-connection.svg": "c50efb0a94a0eafb8b18f554784b0f2727568916c31e2f8b3ea048332b161a5a",
+    "assets/new-method-candidates/m3-line-roles.svg": "6db435b8d305b90044a30924a96dac09086e8f7715041ad9a2e14970620e36a4",
+    "assets/new-method-candidates/m4-transfer.svg": "84ab3aa5dfe1402d9a3d22eb43ad2064f5945991cb8b304279d255d7a9983fde"
+  },
+  "parser_warning_count": 281,
+  "parser_warning_examples": [
+    "Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats"
+  ],
+  "scope": "Document packaging and specified arithmetic/model checks only. Visual review is recorded separately; no participant or efficacy validation."
+}

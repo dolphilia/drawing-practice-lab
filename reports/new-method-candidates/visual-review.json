@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-03",
+  "pdf_sha256": "6564abc804573bc53eafa69f6b1ebdd3880f8624bdddcf21b0ba4510b85839ab",
+  "pages": 11,
+  "reviewer": "assistant visual inspection of all final Poppler page images",
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "checks": [
+    "no clipped text or tables",
+    "no overlapping figure labels",
+    "legible worked examples and captions",
+    "consistent headers and page numbering",
+    "one complete numbered section per page",
+    "M1 ratio example and M2 view diagrams correspond to text"
+  ],
+  "page_png_sha256": {
+    "1": "81ad4f9784c67c32a90e14008eb07c536d8e6a95101b738e53c87184074b12b1",
+    "2": "b8613d01a756957d152e344783ed72ce3d9abdb3be94085b2b929d09c4261461",
+    "3": "07816f55f15db98b31d6f89cf10843380cfabde5bbe3c33b9f1f996965f29417",
+    "4": "24f95e44399a3021e206289cc17d2a29866e2898aec65d3d486bcd6d9c1aa72c",
+    "5": "d71e2e9e7f0aca09c5ac487d8505f0f3c22da634123249b3c096b35c003ff10c",
+    "6": "ef4e3debbb70fa013d64c0a9e71ddd73fe11668e497d60f7ad1fc0f838e7360e",
+    "7": "484d0084893cbd326302222d79b4be44f83821e7f5cdb0a6bff49192cda64cce",
+    "8": "a3c988c6ad7e06d84012d0f0453e583436decf1f32237f1ee58e52456d1f96cc",
+    "9": "da6b1b310ae3b538f1a390a376bdc4b93ac32983cd8a3f4211ccf48f910e472e",
+    "10": "735b991300ee0fe4437beaa4550a1e793f2e6d6c06081459c1434378cc5039ef",
+    "11": "7685610fb8b0c116f8157b04aceec785e783c9924a1590e4113b24741551a0c9"
+  },
+  "status": "pass",
+  "scope": "Publication layout only. Not a human drawing, comprehension or efficacy study.",
+  "parser_note": "pdfplumber reported missing FontBBox metadata; text extraction and page-bound checks completed. Poppler images were separately inspected for visual defects."
+}

@@ -1,5 +1,13 @@
 # 調査と分析
 
+## 頭部構築と無料3Dモデル（2026-10-05）
+
+- [顔・頭部の三次元構築法と無料モデル](topics/head-construction-and-free-models.md)：Bridgman・Asaro・Reilly・Hampton・Huston・解剖構築の比較、無料候補7件、選定と再現案。
+- [箱から面頭部を作る草案](../methods/drafts/box-to-planar-head.md)：仮の比率、分割、切り出し、突出、複数方向の照合。
+- [自作模式模型](../assets/head-construction/README.md)：生成コード・座標データ・OBJ。元模型の実測再現ではなく、操作の説明用。
+
+配布表示と選定模型のブラウザ形状を確認。全候補の実ファイル取得、元模型の正投影測定、学習効果の検証は未実施。
+
 資料を横断して何が言えるか、何を試すかをまとめます。外部資料そのものの要点は [資料一覧](../references/README.md)に置き、ここでは当リポジトリの解釈・提案を区別します。
 
 今後の調査は [資料収集・調査計画](../docs/research-plan.md)に沿って進めます。問いごとの検索・選別・保留理由は [収集記録テンプレート](../templates/collection.md)を使って残します。
